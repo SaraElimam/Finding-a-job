@@ -8,6 +8,11 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    
+    # This is the fix: explicitly granting the bot write access
+    permissions:
+      contents: write
+      
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
