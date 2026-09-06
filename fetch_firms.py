@@ -1,12 +1,14 @@
 import requests
 import json
 import sys
+import time
 
 def fetch_architects_lombardy():
-    overpass_url = "http://overpass-api.de/api/interpreter"
+    # Enforce HTTPS to prevent the server from dropping the POST data during a redirect
+    overpass_url = "https://overpass-api.de/api/interpreter"
     
     query = """
-    [out:json][timeout:60];
+    [out:json][timeout:90];
     area["name"="Lombardia"]["admin_level"="4"]->.searchArea;
     (
       node["office"="architect"](area.searchArea);
@@ -16,19 +18,29 @@ def fetch_architects_lombardy():
     out center;
     """
     
-    # OpenStreetMap requires a custom User-Agent to accept the request
     headers = {
-        "User-Agent": "JobHuntRadarBot/1.0 (sarahalemam.37@gmail.com)"
+        "User-Agent": "JobHuntRadarBot/1.1 (sarahalemam.37@gmail.com)"
     }
     
     print("Querying OpenStreetMap database...")
-    response = requests.post(overpass_url, data={'data': query}, headers=headers)
     
-    if response.status_code != 200:
-        print(f"Error fetching data: HTTP {response.status_code}")
+    # Implement a retry mechanism in case the free server is temporarily overloaded
+    max_retries = 3
+    for attempt in range(max_retries):
+        response = requests.post(overpass_url, data={'data': query}, headers=headers)
+        
+        if response.status_code == 200:
+            break
+            
+        print(f"Attempt {attempt + 1} failed: HTTP {response.status_code}")
+        if attempt < max_retries - 1:
+            print("Waiting 15 seconds before retrying...")
+            time.sleep(15)
+    else:
+        print("All attempts failed. Exiting.")
         print(response.text)
-        sys.exit(1) # This forces the GitHub Action to fail properly if the API rejects the request
-    
+        sys.exit(1)
+        
     data = response.json()
     firms = []
     
@@ -46,7 +58,7 @@ def fetch_architects_lombardy():
             "name": tags.get('name', 'Studio di Architettura'),
             "lat": lat,
             "lon": lon,
-            "address": address or "Indirizzo non disponibile",
+            "address": address if address else "Indirizzo non disponibile",
             "website": tags.get('website', tags.get('contact:website', '')),
             "phone": tags.get('phone', tags.get('contact:phone', 'N/A'))
         })
