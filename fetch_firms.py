@@ -11,9 +11,15 @@ def fetch_architects_lombardy():
     [out:json][timeout:90];
     area["name"="Lombardia"]["admin_level"="4"]->.searchArea;
     (
-      node["office"="architect"](area.searchArea);
-      way["office"="architect"](area.searchArea);
-      relation["office"="architect"](area.searchArea);
+      // 1. Get all explicitly tagged architects and engineers
+      node["office"~"^(architect|engineer)$"](area.searchArea);
+      way["office"~"^(architect|engineer)$"](area.searchArea);
+      relation["office"~"^(architect|engineer)$"](area.searchArea);
+      
+      // 2. Get generic offices if their name sounds like an AEC firm (case-insensitive)
+      node["office"~"^(company|yes)$"]["name"~"arch|studio|associati|progetti|design|bim|ingegneria",i](area.searchArea);
+      way["office"~"^(company|yes)$"]["name"~"arch|studio|associati|progetti|design|bim|ingegneria",i](area.searchArea);
+      relation["office"~"^(company|yes)$"]["name"~"arch|studio|associati|progetti|design|bim|ingegneria",i](area.searchArea);
     );
     out center;
     """
