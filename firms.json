@@ -1,1 +1,4202 @@
-[]
+[
+  {
+    "name": "Tria Studio Tecnico",
+    "lat": 45.5553905,
+    "lon": 9.2037096,
+    "address": "Via Venticinque Aprile 152",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Gasparini e associati",
+    "lat": 45.5598685,
+    "lon": 9.3062879,
+    "address": "Via degli Artigiani 16, Brugherio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico TeknoLab & Design",
+    "lat": 45.562958,
+    "lon": 9.2157013,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "+39 02 66015087"
+  },
+  {
+    "name": "Studio legale Dossena",
+    "lat": 45.5421611,
+    "lon": 9.1729511,
+    "address": "Via Caduti della Libertà 12, Cormano",
+    "website": "https://www.avvocatomauriziodossena.it/",
+    "phone": "+39025513595;+393472274048"
+  },
+  {
+    "name": "Studio Luminati",
+    "lat": 45.5408307,
+    "lon": 9.170036,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "+39 02 66300503"
+  },
+  {
+    "name": "Studio Frisenna",
+    "lat": 45.539321,
+    "lon": 9.1672205,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.5388893,
+    "lon": 9.1657475,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Undicizero3 Wedding Planner Studio",
+    "lat": 45.4488835,
+    "lon": 9.1633455,
+    "address": "Ripa di Porta Ticinese 97/b, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Casale di Lorenzo Arrigoni & C.",
+    "lat": 45.1780802,
+    "lon": 9.6454802,
+    "address": "Via Marsala 60, Casalpusterlengo",
+    "website": "",
+    "phone": "+39 0377 84333"
+  },
+  {
+    "name": "Studio Commercialista Sciandra & Associati",
+    "lat": 45.4679914,
+    "lon": 9.1957512,
+    "address": "Via Monte Napoleone 8, Milano",
+    "website": "https://studiosciandra.com",
+    "phone": "+39 02 9475 8880"
+  },
+  {
+    "name": "BitDesign",
+    "lat": 45.3755978,
+    "lon": 9.6980587,
+    "address": "Via Bergamo 18, Crema",
+    "website": "https://www.bitdesign.it/",
+    "phone": "+39 0373 230416"
+  },
+  {
+    "name": "City planner aka Pjhooker",
+    "lat": 45.5976024,
+    "lon": 8.9340261,
+    "address": "Via Comasina 39, Legnano",
+    "website": "https://www.cityplanner.it/",
+    "phone": "+39 348 7448152"
+  },
+  {
+    "name": "Studio Legale Miedico",
+    "lat": 45.5553262,
+    "lon": 9.2167876,
+    "address": "Via Giosuè Carducci 5, Cinisello Balsamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "BLB Studio Legale",
+    "lat": 45.4621375,
+    "lon": 9.1733318,
+    "address": "Via Giosuè Carducci 38, Milano",
+    "website": "https://blblex.it/",
+    "phone": "+390236515580"
+  },
+  {
+    "name": "Studio Villa & Turati",
+    "lat": 45.5816419,
+    "lon": 9.2717666,
+    "address": "Via Antonio Gramsci 10, Monza",
+    "website": "http://www.villaeturati.profisweb.it/",
+    "phone": "+39039388347"
+  },
+  {
+    "name": "Studio White",
+    "lat": 45.4465011,
+    "lon": 9.1520019,
+    "address": "Via Lodovico il Moro 17, Milano",
+    "website": "http://www.studiowhite.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Erregi",
+    "lat": 45.447073,
+    "lon": 9.221236,
+    "address": "Via Giovanni Cadolini 32",
+    "website": "https://www.studioerregi.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Valeri & Marini",
+    "lat": 45.5368,
+    "lon": 10.212537,
+    "address": "Corso Giacomo Matteotti 54",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Immobiliare Rossoni",
+    "lat": 45.6839717,
+    "lon": 8.7066741,
+    "address": "Via Giuseppe Mazzini 17, Somma Lombardo",
+    "website": "https://www.immobiliarerossoni.it/",
+    "phone": "+39 0331 252615"
+  },
+  {
+    "name": "Studio legale OLDANI-RACCUGLIA",
+    "lat": 45.4642906,
+    "lon": 8.8790328,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Associato di Geologia",
+    "lat": 45.7297442,
+    "lon": 8.8427629,
+    "address": "Via Giuseppe Verdi 44, Carnago",
+    "website": "https://www.insubriageo.it/",
+    "phone": "+39 0331 990885"
+  },
+  {
+    "name": "Design Thinking Studio",
+    "lat": 45.4628615,
+    "lon": 9.2164075,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Villa",
+    "lat": 45.9457148,
+    "lon": 9.1287682,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ing. Alessio Sanavio",
+    "lat": 45.4758361,
+    "lon": 9.1910703,
+    "address": "Corso di Porta Nuova 15, Milano",
+    "website": "https://ingas.it/",
+    "phone": "+39 02 45071124"
+  },
+  {
+    "name": "camarett - Architetto Ettore Curto",
+    "lat": 45.6943529,
+    "lon": 9.5989298,
+    "address": "Via Lecco 73a, Curno",
+    "website": "www.camarett.it",
+    "phone": "+39 347 0794668"
+  },
+  {
+    "name": "Studio Zara",
+    "lat": 45.4921903,
+    "lon": 9.1921597,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale avvocato Daniel Cibin",
+    "lat": 45.4748071,
+    "lon": 9.2080757,
+    "address": "Via Marcello Malpighi 12, Milano",
+    "website": "https://www.studiocibin.com/",
+    "phone": "+39 02 87186275"
+  },
+  {
+    "name": "Laboratorio 51",
+    "lat": 45.4398035,
+    "lon": 9.1787147,
+    "address": "Via Giuseppe Meda 45, Milano",
+    "website": "http://laboratorio51.com/",
+    "phone": "+39 02 89459735"
+  },
+  {
+    "name": "Studio Medico",
+    "lat": 45.6981512,
+    "lon": 9.0419071,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico Marzetti",
+    "lat": 45.6984291,
+    "lon": 9.0305948,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.studiomarzetti.it/",
+    "phone": "+39 02 96370639"
+  },
+  {
+    "name": "Studio Architettura Ecologia Reiners",
+    "lat": 45.6947935,
+    "lon": 9.0300849,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Delfini",
+    "lat": 45.5685924,
+    "lon": 8.9249742,
+    "address": "Via Galileo Galilei 13, Canegrate",
+    "website": "http://www.studiolegaledelfini.it",
+    "phone": "+39 0331 410419"
+  },
+  {
+    "name": "Studio Geometra Giorgio Maj",
+    "lat": 45.6524602,
+    "lon": 9.6052984,
+    "address": "Via Sant'Andrea 3, Dalmine",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Hot Lab Yatch & Design",
+    "lat": 45.5072754,
+    "lon": 9.1715909,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.hotlab.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Turotti",
+    "lat": 45.5388307,
+    "lon": 9.9287454,
+    "address": "Viale Cesare Battisti 3/c, Chiari",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Consoli",
+    "lat": 45.5388524,
+    "lon": 9.9307653,
+    "address": "Viale Giuseppe Mazzini 1/A, Chiari",
+    "website": "",
+    "phone": "+39 030 7001559"
+  },
+  {
+    "name": "CRC Associati",
+    "lat": 45.4524135,
+    "lon": 9.1874376,
+    "address": "Indirizzo non disponibile",
+    "website": "http://www.crcassociati.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Cocci commercialisti e consulenti del lavoro associati",
+    "lat": 45.661445,
+    "lon": 9.1559405,
+    "address": "Via Giuseppe Mazzini 17, Meda",
+    "website": "https://www.studiococci.it/",
+    "phone": "+390362342348"
+  },
+  {
+    "name": "Studio Castelli",
+    "lat": 45.662762,
+    "lon": 9.1570105,
+    "address": "Via Solferino 4, Meda",
+    "website": "http://www.studiocastelli.net/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.4936127,
+    "lon": 9.5673675,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Professionisti Associati",
+    "lat": 45.6641083,
+    "lon": 9.1616135,
+    "address": "Via Pace 34, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Prati",
+    "lat": 45.5786438,
+    "lon": 9.2764912,
+    "address": "Via Castelfidardo 8, Monza",
+    "website": "https://www.studioprati.eu/",
+    "phone": "+39 039 2024428"
+  },
+  {
+    "name": "Studiocasa",
+    "lat": 45.4233998,
+    "lon": 9.0614229,
+    "address": "Piazza San Lorenzo 5, Trezzano sul Naviglio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Immobiliare",
+    "lat": 45.4886765,
+    "lon": 9.1903446,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico geom. Paolo Negri",
+    "lat": 45.9062179,
+    "lon": 9.2954925,
+    "address": "Oliveto Lario",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Avvocato Ruggero Scibona",
+    "lat": 45.6495984,
+    "lon": 9.2147347,
+    "address": "Via Montello 10, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Parametric Design Srl",
+    "lat": 45.5504812,
+    "lon": 9.4342018,
+    "address": "Piazza Corte Grande 24,25, Gessate",
+    "website": "https://www.parametricdesign.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Tea Lunari",
+    "lat": 45.548232,
+    "lon": 9.1889453,
+    "address": "Viale Unione 18, Cusano Milanino",
+    "website": "",
+    "phone": "+39 02 43119836"
+  },
+  {
+    "name": "Studio Tecnico Raggi",
+    "lat": 45.5493328,
+    "lon": 9.1923371,
+    "address": "Viale Unione 45, Cusano Milanino",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Ca' bella",
+    "lat": 45.6306978,
+    "lon": 9.1454293,
+    "address": "Via Giuseppe Ronzoni 10, Cesano Maderno",
+    "website": "https://studiocabella.it/it",
+    "phone": "+390362508494"
+  },
+  {
+    "name": "Turri architetti associati",
+    "lat": 45.6116403,
+    "lon": 9.1375641,
+    "address": "Via Montello 17, Bovisio Masciago",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Galli Adorno Nicolussi",
+    "lat": 45.6561941,
+    "lon": 9.2014556,
+    "address": "Via Antonio Stoppani 31, Seregno",
+    "website": "",
+    "phone": "+39036222861"
+  },
+  {
+    "name": "Studio Tecnico Bendotti Zamboni",
+    "lat": 45.8664538,
+    "lon": 9.8840251,
+    "address": "Via Giuseppe Frua 37D, Ponte Nossa",
+    "website": "https://www.bendottizamboni.it/",
+    "phone": "+39 035 704018"
+  },
+  {
+    "name": "MioCugino Design",
+    "lat": 45.4503207,
+    "lon": 9.1529849,
+    "address": "Via Savona 97, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "L'atelier della ristrutturazione",
+    "lat": 45.8093507,
+    "lon": 9.0873697,
+    "address": "Viale Lecco 61, Como",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tocci",
+    "lat": 45.4211815,
+    "lon": 9.057963,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Vergani",
+    "lat": 45.6590402,
+    "lon": 9.2555752,
+    "address": "Piazza Conciliazione 29, Albiate",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Frese",
+    "lat": 45.4695796,
+    "lon": 9.2265258,
+    "address": "Via Pietro da Cortona 11, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Geometra Simone Berno",
+    "lat": 45.5499911,
+    "lon": 10.5050508,
+    "address": "Via Sant'Antonio 13",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ing Lab",
+    "lat": 45.6582937,
+    "lon": 8.7968781,
+    "address": "Via Camillo Benso Conte di Cavour 15, Gallarate",
+    "website": "https://www.ing-lab.it/",
+    "phone": "+39 0331 1406012"
+  },
+  {
+    "name": "Studio legale Scalia",
+    "lat": 45.7246617,
+    "lon": 8.6311044,
+    "address": "Via Vittorio Veneto 13, Sesto Calende",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Grivo Cardarelli",
+    "lat": 45.7249373,
+    "lon": 8.6334956,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Cigognetti Geometri Franco e Alessandro",
+    "lat": 45.3223125,
+    "lon": 10.6590181,
+    "address": "Via 1848 20, Volta Mantovana",
+    "website": "",
+    "phone": "+39 0376 83342"
+  },
+  {
+    "name": "Studio di ingegneria Morandini e Associati",
+    "lat": 45.3226117,
+    "lon": 10.6590085,
+    "address": "Via 1848 35b, Volta Mantovana",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Notarile Domenico Damiano",
+    "lat": 45.3226399,
+    "lon": 10.6597188,
+    "address": "Piazza Giuseppe Garibaldi, Volta Mantovana",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Pirola Pennuto Zei & Associati",
+    "lat": 45.4827103,
+    "lon": 9.201611,
+    "address": "Via Vittor Pisani 20, Milano",
+    "website": "https://www.pirolapennutozei.it/",
+    "phone": "+39 02 669951"
+  },
+  {
+    "name": "Studio 4 Immobiliare",
+    "lat": 44.9932046,
+    "lon": 9.0120315,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Lucini",
+    "lat": 45.6475606,
+    "lon": 9.0814114,
+    "address": "Via Cardinal Dalmazio Minoretti 45, Cogliate",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "City Planner",
+    "lat": 45.5066283,
+    "lon": 9.2281759,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.cityplanner.biz/",
+    "phone": "+39 348 7448152"
+  },
+  {
+    "name": "RuIT studio",
+    "lat": 45.5194672,
+    "lon": 9.6036584,
+    "address": "Via Beato Angelico 12a, Treviglio",
+    "website": "http://www.ruitstudio.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "AAlto Software Design",
+    "lat": 44.9862897,
+    "lon": 9.0113344,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Agnesi",
+    "lat": 45.5355411,
+    "lon": 9.9293531,
+    "address": "Vicolo Pace, Chiari",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Proiezione Casa",
+    "lat": 45.4911921,
+    "lon": 9.2076876,
+    "address": "Via Giovanni Battista Sammartini 41, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico Geometra Buggio Giuliano",
+    "lat": 45.6189589,
+    "lon": 9.2204792,
+    "address": "Via don Giacomo Bareggi 29, Desio",
+    "website": "www-sudiobuggio.it",
+    "phone": "+39 0362 306266"
+  },
+  {
+    "name": "Studio Associato Cassani",
+    "lat": 45.5216105,
+    "lon": 9.5841202,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.studiocassani.net/",
+    "phone": "+39 0363 48532"
+  },
+  {
+    "name": "Studio Ragionier Filippo Fornari Commercialista",
+    "lat": 45.5981854,
+    "lon": 10.1052049,
+    "address": "Via San Francesco d'Assisi 12, Rodengo Saiano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "C.I.Di.S - Consorzio Pubblico Interuniversitario per la gestione degli interventi per il diritto allo studio universitario",
+    "lat": 45.4570686,
+    "lon": 9.1914428,
+    "address": "Via Santa Sofia 9, Milano",
+    "website": "https://consorziocidis.it/",
+    "phone": "+39025820721"
+  },
+  {
+    "name": "Architetto Giancarlo Giusteschi",
+    "lat": 45.4511221,
+    "lon": 9.1767829,
+    "address": "Via Magolfa 12, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale associato e commercialista",
+    "lat": 45.3216696,
+    "lon": 10.6598455,
+    "address": "Via San Martino 8, Volta Mantovana",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ardesia Studio",
+    "lat": 45.6995477,
+    "lon": 9.6749753,
+    "address": "Via Pignolo 45, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Bloom Scape",
+    "lat": 45.6913169,
+    "lon": 9.6616205,
+    "address": "Via San Lazzaro 26b, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.6909019,
+    "lon": 9.6623465,
+    "address": "Via Gianbattista Moroni 122, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.6898623,
+    "lon": 9.6629858,
+    "address": "Via dei Carrozzai 6d, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Taschini",
+    "lat": 45.698866,
+    "lon": 9.6775812,
+    "address": "Via Teodoro Frizzoni 19a, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Laura Busetti",
+    "lat": 45.6899592,
+    "lon": 9.6625901,
+    "address": "Via dei Carrozzai 3a, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.6924792,
+    "lon": 9.6626943,
+    "address": "Via San Lazzaro 1p, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Q52",
+    "lat": 45.6897981,
+    "lon": 9.6687766,
+    "address": "Via Giacomo Quarenghi 50e, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.6899161,
+    "lon": 9.6628391,
+    "address": "Via dei Carrozzai 6b, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Melesi - Officina d'Architettura",
+    "lat": 45.8819056,
+    "lon": 9.4074048,
+    "address": "Via Papa Paolo Sesto 33, Lecco",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Ravannetti",
+    "lat": 45.4177578,
+    "lon": 9.0696211,
+    "address": "Via Vittorio Veneto 4, Trezzano sul Naviglio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Avvocato Stefano Formenti",
+    "lat": 45.5322474,
+    "lon": 10.2190856,
+    "address": "Via Solferino 26, Brescia",
+    "website": "",
+    "phone": "+39 030 2070173"
+  },
+  {
+    "name": "Silvestri & Associati",
+    "lat": 45.6246867,
+    "lon": 9.028897,
+    "address": "Via Bernardino Lanino 32, Saronno",
+    "website": "",
+    "phone": "+39 02 96703943"
+  },
+  {
+    "name": "Studio Legale Avv. Ruggiero Fidalma",
+    "lat": 45.429,
+    "lon": 9.0574225,
+    "address": "Via Como 10, Trezzano sul Naviglio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Nava architettura d'arredamenti",
+    "lat": 45.6225296,
+    "lon": 9.2266458,
+    "address": "Via Edmondo De Amicis 1, Desio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Vercesi",
+    "lat": 45.5806293,
+    "lon": 8.9203213,
+    "address": "Via per San Giorgio su Legnano 79, Legnano",
+    "website": "http://www.studiovercesi.net/",
+    "phone": "+39 0331 402514"
+  },
+  {
+    "name": "Studio Venosta",
+    "lat": 45.1792209,
+    "lon": 9.6479701,
+    "address": "Piazza del Popolo 25, Casalpusterlengo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Assistudio Vigevano s.a.s.",
+    "lat": 45.3070063,
+    "lon": 8.8677896,
+    "address": "Corso Pavia 71/c, Vigevano",
+    "website": "https://www.assistudiovigevano.com/",
+    "phone": "+39 0381 74441"
+  },
+  {
+    "name": "Studio Immobiliare 100",
+    "lat": 45.6732013,
+    "lon": 8.744213,
+    "address": "Via Milano 100, Casorate Sempione",
+    "website": "https://studioimmobiliare100.it/",
+    "phone": "+39 393 9620882"
+  },
+  {
+    "name": "Studio Giuliani",
+    "lat": 45.6104846,
+    "lon": 9.2389724,
+    "address": "Via Sant'Antonio 25, Lissone",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Bimbi",
+    "lat": 45.4634128,
+    "lon": 9.1638088,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Fontana",
+    "lat": 45.6720264,
+    "lon": 8.7077502,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Meraviglia",
+    "lat": 45.405483,
+    "lon": 9.0414838,
+    "address": "Piazza Salvo D'Acquisto 14, Gaggiano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Immobiliare Emme di Lopriore Mario",
+    "lat": 45.6673567,
+    "lon": 9.0543631,
+    "address": "Via Gian Battista Grassi 8, Rovellasca",
+    "website": "",
+    "phone": "+39 392 1774199"
+  },
+  {
+    "name": "La bottega dell'architetto",
+    "lat": 45.609628,
+    "lon": 8.8516045,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Tedioli",
+    "lat": 45.1536069,
+    "lon": 10.7939788,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.tedioli.com/",
+    "phone": "+39 0376 360313"
+  },
+  {
+    "name": "Studio 15",
+    "lat": 45.4685951,
+    "lon": 9.17858,
+    "address": "Indirizzo non disponibile",
+    "website": "http://www.studio15realestate.it",
+    "phone": "N/A"
+  },
+  {
+    "name": "Gemas",
+    "lat": 45.5881681,
+    "lon": 8.849289,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Cerliani",
+    "lat": 45.6673846,
+    "lon": 9.1475808,
+    "address": "Via Alessandro Manzoni 57/59, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico db",
+    "lat": 45.6384654,
+    "lon": 9.1468408,
+    "address": "Via Cascina Rossa 36, Seveso",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.9360321,
+    "lon": 10.2948718,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Associato Battaini – Sangregorio",
+    "lat": 45.6531586,
+    "lon": 9.2134737,
+    "address": "Via Circonvallazione 58, Seregno",
+    "website": "https://www.studioassociatobs.com/",
+    "phone": "+3903621795348"
+  },
+  {
+    "name": "Re.Vi.Wa",
+    "lat": 45.7370216,
+    "lon": 9.3301154,
+    "address": "Via Risorgimento 12, Sirtori",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Corno",
+    "lat": 45.6063135,
+    "lon": 9.2417311,
+    "address": "Via Goffredo Mameli 11, Lissone",
+    "website": "https://www.studiocorno.it//",
+    "phone": "+39 039 2456792"
+  },
+  {
+    "name": "Ordine degli Architetti Pianificatori Paesaggisti e Conservatori della Provincia di Milano",
+    "lat": 45.4762384,
+    "lon": 9.1872595,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.ordinearchitetti.mi.it/",
+    "phone": "+39 02 625341"
+  },
+  {
+    "name": "Studio di Architettura Alati",
+    "lat": 45.7017631,
+    "lon": 9.6728351,
+    "address": "Via Pignolo 95, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Rossi",
+    "lat": 45.7028929,
+    "lon": 9.6743289,
+    "address": "Via San Tomaso 42a, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Pavesi Saccabarozzi",
+    "lat": 45.7042827,
+    "lon": 9.6788223,
+    "address": "Via Santa Caterina 7b, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Siti",
+    "lat": 45.9030163,
+    "lon": 10.0268661,
+    "address": "Via Agro 9, Castione della Presolana",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio SM Arredi",
+    "lat": 45.6380828,
+    "lon": 9.1669995,
+    "address": "Via Montecassino 32, Seveso",
+    "website": "",
+    "phone": "+390362528702"
+  },
+  {
+    "name": "Studio Zimer",
+    "lat": 45.4417221,
+    "lon": 9.2210988,
+    "address": "Corso Lodi 111, Milano",
+    "website": "",
+    "phone": "+39 02 56810080"
+  },
+  {
+    "name": "Studio Legale Cislaghi Lessio Associati",
+    "lat": 45.4746568,
+    "lon": 9.1917054,
+    "address": "Corso di Porta Nuova 20, Milano",
+    "website": "https://studioclass.it/",
+    "phone": "+390294392452"
+  },
+  {
+    "name": "Studio Rossi",
+    "lat": 45.6102393,
+    "lon": 9.2358756,
+    "address": "Via Giacomo Matteotti 62a, Lissone",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Luca Sozzi",
+    "lat": 45.533394,
+    "lon": 10.216632,
+    "address": "Via Gerolamo Romanino 1, Brescia",
+    "website": "https://studiolegalesozzi.wordpress.com",
+    "phone": "N/A"
+  },
+  {
+    "name": "AS&C Studio Santos",
+    "lat": 45.495947,
+    "lon": 9.187893,
+    "address": "Via Giulio Belinzaghi 11, Milano",
+    "website": "https://www.studiosantos.co.uk/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Avdstudio",
+    "lat": 45.661247,
+    "lon": 9.1556709,
+    "address": "Via Giuseppe Mazzini 43, Meda",
+    "website": "https://avdstudio.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Togni",
+    "lat": 45.6909382,
+    "lon": 9.6719304,
+    "address": "Via Giorgio e Guido Paglia 30, Bergamo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Asti Architetti",
+    "lat": 45.4629413,
+    "lon": 9.1814616,
+    "address": "Via Sant'Orsola 8, Milano",
+    "website": "https://www.astiarchitetti.it/",
+    "phone": "+39 02 36533091"
+  },
+  {
+    "name": "Sposati Home",
+    "lat": 45.4931917,
+    "lon": 9.1911618,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Commercialista Rag. Rita Corcella",
+    "lat": 45.6557033,
+    "lon": 9.1725764,
+    "address": "Via Indipendenza 172, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Borrelli",
+    "lat": 45.5246773,
+    "lon": 9.2280972,
+    "address": "Viale Ercole Marelli 344, Sesto San Giovanni",
+    "website": "https://www.studioborrelli.it/",
+    "phone": "+39 02 201444"
+  },
+  {
+    "name": "B2O Design S.r.l.s.",
+    "lat": 45.5765545,
+    "lon": 9.773849,
+    "address": "Via Albero degli Zoccoli 5",
+    "website": "https://www.b2odesign.com/",
+    "phone": "+39 346 668 5188"
+  },
+  {
+    "name": "Studio Architetto Fausto Bianchi",
+    "lat": 46.1784308,
+    "lon": 10.3285945,
+    "address": "Via Sala 38, Edolo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio associato Brambilla Colombo",
+    "lat": 45.6559315,
+    "lon": 9.1994194,
+    "address": "Via Antonio Stoppani 53, Seregno",
+    "website": "https://www.facebook.com/StudioBrambillaColombo/",
+    "phone": "+390362239788"
+  },
+  {
+    "name": "Agenzia Vittoria Assicurazioni Seregno - Assistudio SRL",
+    "lat": 45.6420778,
+    "lon": 9.2152474,
+    "address": "Via Macallè 74e, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Legance Avvocati Associati",
+    "lat": 45.4669829,
+    "lon": 9.1857719,
+    "address": "Via Broletto 9, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Legance Avvocati Associati",
+    "lat": 45.4667976,
+    "lon": 9.1861099,
+    "address": "Via Broletto 20, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Avvocato Gian Pietro Dossi",
+    "lat": 45.6579891,
+    "lon": 9.964045,
+    "address": "Via Papa Paolo VI 4e, Paratico",
+    "website": "http://www.studiodossi.it/",
+    "phone": "+39 035 934478"
+  },
+  {
+    "name": "Studio tecnico grafico",
+    "lat": 45.71655,
+    "lon": 10.111189,
+    "address": "Via Zirotti 10, Sale Marasino",
+    "website": "",
+    "phone": "+39 3351457395"
+  },
+  {
+    "name": "Studio Patronato & Caf Giambellino",
+    "lat": 45.4518437,
+    "lon": 9.1518158,
+    "address": "Via Giambellino 12, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Mondini",
+    "lat": 45.5011189,
+    "lon": 9.9438491,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Due B",
+    "lat": 45.5026762,
+    "lon": 9.9476692,
+    "address": "Via Aldo Moro, Castelcovati",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio T",
+    "lat": 45.6309499,
+    "lon": 9.1463097,
+    "address": "Via Novara 1, Cesano Maderno",
+    "website": "",
+    "phone": "+390362520892"
+  },
+  {
+    "name": "Studio Tecnico Arnoldi Geometra Aristide Stefano",
+    "lat": 46.0841112,
+    "lon": 9.3225386,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "P'ArcNouveau design office",
+    "lat": 45.4841544,
+    "lon": 9.2317135,
+    "address": "Via Luigi Capranica 14, Milano",
+    "website": "https://www.parcnouveau.com/",
+    "phone": "+39 02 99205890"
+  },
+  {
+    "name": "B&L più Associati",
+    "lat": 45.8388004,
+    "lon": 9.0631604,
+    "address": "Via Giacomo Matteotti 18c, Cernobbio",
+    "website": "www.blpiu.it",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Commercialista Brunelli Rag. Luciana",
+    "lat": 45.6247275,
+    "lon": 9.2285271,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "+39 0362 309731"
+  },
+  {
+    "name": "Studio San Genesio di Trezzi Andrea",
+    "lat": 45.2303899,
+    "lon": 9.1816056,
+    "address": "Via Porta Pescarina 12a, San Genesio ed Uniti",
+    "website": "",
+    "phone": "+39 0382 580203"
+  },
+  {
+    "name": "Andrea Galeazzi",
+    "lat": 45.4813765,
+    "lon": 9.1873785,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "GBPA",
+    "lat": 45.4530516,
+    "lon": 9.212711,
+    "address": "Viale Cirene 14, Milano",
+    "website": "",
+    "phone": "+39 02 66823999"
+  },
+  {
+    "name": "Progetti Brescia S.r.l.",
+    "lat": 45.607022,
+    "lon": 10.2104846,
+    "address": "Via Europa 185, Concesio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Migliavacca",
+    "lat": 45.4755233,
+    "lon": 9.1842324,
+    "address": "Via Palermo 18, Milano",
+    "website": "https://studio-migliavacca.it/it/",
+    "phone": "+39 02 6551889"
+  },
+  {
+    "name": "Studio Iumi",
+    "lat": 45.4694932,
+    "lon": 9.2349173,
+    "address": "Via Ajaccio 3, Milano",
+    "website": "http://www.studioiumi.it/",
+    "phone": "+39 02 39521452"
+  },
+  {
+    "name": "Studio Meta Network Immobiliare",
+    "lat": 45.4232647,
+    "lon": 9.2657237,
+    "address": "Via Alfonsine, San Donato Milanese",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "STP Studio Tecnico Pirovano",
+    "lat": 45.6969068,
+    "lon": 9.3316467,
+    "address": "Via San Bartolomeo 21b, Missaglia",
+    "website": "http://www.stpirovano.it",
+    "phone": "+39 039 9201383"
+  },
+  {
+    "name": "Studio Casa",
+    "lat": 45.497856,
+    "lon": 9.6417426,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Geometra Fabio Belloni",
+    "lat": 46.1535188,
+    "lon": 10.147767,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Ripamonti",
+    "lat": 45.4377339,
+    "lon": 9.2001796,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Chiara Broglio",
+    "lat": 45.5248797,
+    "lon": 10.2103397,
+    "address": "Via Cipro 50",
+    "website": "",
+    "phone": "+39 030 375 82 21"
+  },
+  {
+    "name": "Studio di Fisica Applicata dott. Riggio Mauro",
+    "lat": 45.7050601,
+    "lon": 9.6849281,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Avv. Filippo Pistone",
+    "lat": 45.59669,
+    "lon": 8.884728,
+    "address": "Via dei Pioppi 8, Legnano",
+    "website": "https://www.slfp.it/",
+    "phone": "+39 348 3852829"
+  },
+  {
+    "name": "Studio commercialista Berti Rag. Giovanna",
+    "lat": 45.2456703,
+    "lon": 9.8140012,
+    "address": "Via Castel Manfredo 41, San Bassano",
+    "website": "",
+    "phone": "+39 0374 373430"
+  },
+  {
+    "name": "Immobildesign",
+    "lat": 45.5286052,
+    "lon": 9.0413184,
+    "address": "Piazza San Vittore 26, Rho",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio R. B.",
+    "lat": 45.2880437,
+    "lon": 8.9955635,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Associato di Ingegneria di Ventura Francesca e Maria Luigia",
+    "lat": 45.2435495,
+    "lon": 9.8077496,
+    "address": "Via Roma 26, San Bassano",
+    "website": "",
+    "phone": "+39 0374 373539"
+  },
+  {
+    "name": "Studio architetto Dante O. Benini",
+    "lat": 45.4899026,
+    "lon": 9.1405404,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.dantebeniniarchitects.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio3B",
+    "lat": 45.48614,
+    "lon": 9.0110928,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Novastudio",
+    "lat": 45.8175028,
+    "lon": 10.0751335,
+    "address": "Via Fratelli Brighenti 1, Lovere",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "2A Studio Project S.r.l.",
+    "lat": 45.4564849,
+    "lon": 8.8793104,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Associato Gianotti - Redaelli",
+    "lat": 45.6585442,
+    "lon": 9.2261584,
+    "address": "Via della Valle 67, Carate Brianza",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Gilardi Mojoli e Associati",
+    "lat": 45.6524649,
+    "lon": 9.2230161,
+    "address": "Via Montorfano 23, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Simone Fanciullacci Designer",
+    "lat": 45.5045104,
+    "lon": 9.2317618,
+    "address": "Via Nuoro 42, Milano",
+    "website": "https://www.simonefanciullacci.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio 2P",
+    "lat": 45.5458543,
+    "lon": 8.885104,
+    "address": "Corso Milano 4, Busto Garolfo",
+    "website": "",
+    "phone": "+39 0331 567202"
+  },
+  {
+    "name": "Leone - Torrani e associati",
+    "lat": 45.4655531,
+    "lon": 9.1714713,
+    "address": "Corso Magenta 63, Milano",
+    "website": "https://www.torrani-incorvaia.it/",
+    "phone": "+39024856191"
+  },
+  {
+    "name": "Studio Greca",
+    "lat": 45.6498033,
+    "lon": 9.2192901,
+    "address": "Via Montello 68, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Menilli",
+    "lat": 45.6658492,
+    "lon": 9.1855493,
+    "address": "Via Luigi Einaudi 44, Cabiate",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Nespoli e Riva",
+    "lat": 45.654414,
+    "lon": 9.2239285,
+    "address": "Via Montorfano 98, Seregno",
+    "website": "",
+    "phone": "+390362325309"
+  },
+  {
+    "name": "Studio Vittoria",
+    "lat": 45.5638734,
+    "lon": 9.1623518,
+    "address": "Via Roma 77, Paderno Dugnano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio immobiliare Agliati",
+    "lat": 45.5709473,
+    "lon": 9.5218217,
+    "address": "Via Francesco Melzi d'Eril 226, Vaprio d'Adda",
+    "website": "https://www.agliati.com/",
+    "phone": "+39 02 9098 8476"
+  },
+  {
+    "name": "Sit Progetti",
+    "lat": 45.4653584,
+    "lon": 8.8834479,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Dipartimento di Architettura, Ingegneria delle Costruzioni e Ambiente Costruito",
+    "lat": 45.4796191,
+    "lon": 9.2294531,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.abc.polimi.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Dipartimento di Architettura e Studi Urbani",
+    "lat": 45.4794764,
+    "lon": 9.2276815,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.dastu.polimi.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Scuola del Design",
+    "lat": 45.5053117,
+    "lon": 9.1670694,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.design.polimi.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Architectural Atelier",
+    "lat": 45.1816506,
+    "lon": 9.1621781,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico",
+    "lat": 45.1818122,
+    "lon": 9.1614331,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Cilmi",
+    "lat": 45.5777367,
+    "lon": 9.2795427,
+    "address": "Via Mentana 29a, Monza",
+    "website": "https://www.studiocilmi.it/",
+    "phone": "+39 039 226 1897; +39 039 284 7159"
+  },
+  {
+    "name": "Avvocato Marica Pesci studio legale",
+    "lat": 45.5246758,
+    "lon": 9.3303345,
+    "address": "Piazza Giacomo Matteotti 6a, Cernusco sul Naviglio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Finazzi",
+    "lat": 45.5243004,
+    "lon": 9.3324054,
+    "address": "Via Fratelli Angelo e Pietro Tizzoni 11a, Cernusco sul Naviglio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Giemme",
+    "lat": 45.5238946,
+    "lon": 9.3304886,
+    "address": "Via Roma 12, Cernusco sul Naviglio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico Geom. Sirtori Piergiorgio",
+    "lat": 45.5234879,
+    "lon": 9.3288376,
+    "address": "Via Ambrogio Uboldo 24, Cernusco sul Naviglio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio professionale associato Caldarini - Oggioni - Ticozzi - Zampieri",
+    "lat": 45.6502074,
+    "lon": 9.2144744,
+    "address": "Via Montello 1, Seregno",
+    "website": "https://www.studiocaldarini.it/",
+    "phone": "+390362237789"
+  },
+  {
+    "name": "Studio Bona Affiliato Tecnocasa",
+    "lat": 45.5892462,
+    "lon": 10.2425921,
+    "address": "Via Vittorio Veneto 36",
+    "website": "https://bovezzo1.tecnocasa.it/bovezzo/bovezzo/",
+    "phone": "+39 030 271 4294"
+  },
+  {
+    "name": "Studio legale avvocato Ezio Cerea",
+    "lat": 45.5378841,
+    "lon": 9.4790019,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Broletto Studio Immobiliare S.a.s.",
+    "lat": 45.5676711,
+    "lon": 10.2407227,
+    "address": "Via Ambaraga 72, Brescia",
+    "website": "https://www.studioimmobiliarebroletto.it/web/",
+    "phone": "+39 030 2091741"
+  },
+  {
+    "name": "Exho",
+    "lat": 45.7240642,
+    "lon": 8.635515,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Domenico Sclapari",
+    "lat": 45.6276587,
+    "lon": 9.1471488,
+    "address": "Piazza Arese 4, Cesano Maderno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Avv. Fiorenzo Crippa - Avv. Pietro Bassi",
+    "lat": 45.8621848,
+    "lon": 9.269553,
+    "address": "Via Giacomo Matteotti 54, Asso",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Bonatti Gambadoro Giani studio di architettura",
+    "lat": 45.4755177,
+    "lon": 8.9942756,
+    "address": "Piazza Cavour 30, Bareggio",
+    "website": "https://www.bggarchitettura.it/",
+    "phone": "+390236688883"
+  },
+  {
+    "name": "Studio di Ragioneria G. D'Andria",
+    "lat": 45.5778315,
+    "lon": 9.2817765,
+    "address": "Via Mentana 41a, Monza",
+    "website": "",
+    "phone": "+390392026333"
+  },
+  {
+    "name": "Studio Geom. Caroli Umberto",
+    "lat": 45.6385187,
+    "lon": 9.6826157,
+    "address": "Via Libertà 82, Zanica",
+    "website": "https://studiocaroli.net/",
+    "phone": "+39 035 670146"
+  },
+  {
+    "name": "Bertone Design",
+    "lat": 45.4630606,
+    "lon": 9.1724105,
+    "address": "Via Aristide De Togni 28, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio di Architettura e design Arch. Silvia Galbiati",
+    "lat": 45.5776062,
+    "lon": 9.2784097,
+    "address": "Via Mentana 18/B, Monza",
+    "website": "https://www.facebook.com/studioarchsilviagalbiati/",
+    "phone": "+39039387741"
+  },
+  {
+    "name": "FMC Associati - Studio Tecnico",
+    "lat": 45.8111078,
+    "lon": 9.0086957,
+    "address": "Via San Fermo 11, Colverde",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Geometra Sali Elisabetta",
+    "lat": 45.1290158,
+    "lon": 10.0491836,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Conti Grilli",
+    "lat": 45.466795,
+    "lon": 9.1760016,
+    "address": "Via Giosuè Carducci 8, Milano",
+    "website": "https://www.contigrilli.com/",
+    "phone": "+3902874266"
+  },
+  {
+    "name": "LTA Studio",
+    "lat": 45.4676023,
+    "lon": 9.1750869,
+    "address": "Via Giacomo Leopardi 7, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Emmebi Architetture",
+    "lat": 45.6715388,
+    "lon": 9.2029269,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Assicuratori Associati",
+    "lat": 45.6197768,
+    "lon": 9.2102637,
+    "address": "Via Lombardia 4, Desio",
+    "website": "https://www.assicuratoriassociati.it/",
+    "phone": "+390362628188"
+  },
+  {
+    "name": "Studio De Simone Perrucci",
+    "lat": 45.5775835,
+    "lon": 9.2770365,
+    "address": "Via Mentana 10, Monza",
+    "website": "https://www.facebook.com/studioperruccicdl/",
+    "phone": "+390392185052"
+  },
+  {
+    "name": "Studio Matera",
+    "lat": 45.4603169,
+    "lon": 9.1715598,
+    "address": "Via Olona 12, Milano",
+    "website": "https://www.studio-matera.it/",
+    "phone": "+390239265991"
+  },
+  {
+    "name": "Architetto Alessandro Merlotti",
+    "lat": 45.6253907,
+    "lon": 9.0343951,
+    "address": "Vicolo Santa Marta 9, Saronno",
+    "website": "https://architettoamerlotti.com",
+    "phone": "+39 347 5317716"
+  },
+  {
+    "name": "a25architetti",
+    "lat": 45.7350413,
+    "lon": 9.3346043,
+    "address": "Via Arnigò 25, Sirtori",
+    "website": "www.a25architetti.it",
+    "phone": "+393463325241"
+  },
+  {
+    "name": "LPzR architetti associati",
+    "lat": 45.4720335,
+    "lon": 9.152733,
+    "address": "Via Monte Rosa 17, Milano",
+    "website": "https://www.lpzr.it",
+    "phone": "+39 02 4801 1235"
+  },
+  {
+    "name": "La Mercurio",
+    "lat": 45.8074717,
+    "lon": 9.0304947,
+    "address": "Via Giuseppe Parini 3, San Fermo della Battaglia",
+    "website": "",
+    "phone": "+39 031 0740100"
+  },
+  {
+    "name": "Ing. Sarga Luca",
+    "lat": 45.639201,
+    "lon": 9.6838269,
+    "address": "Via Libertà 46, Zanica",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Boniardi",
+    "lat": 45.5323415,
+    "lon": 9.1404483,
+    "address": "Via Madonnina 1c, Novate Milanese",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Ricci",
+    "lat": 45.5339446,
+    "lon": 9.1325627,
+    "address": "Via Luigi Cadorna, Novate Milanese",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Geometra Tullio Palermo",
+    "lat": 45.5318735,
+    "lon": 9.1347576,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Lunghi Filippo",
+    "lat": 45.6430922,
+    "lon": 9.1364282,
+    "address": "Corso Giuseppe Garibaldi 72, Seveso",
+    "website": "https://www.studiolunghifilippo.com/",
+    "phone": "+390362501636"
+  },
+  {
+    "name": "AB&P Studio di Consulenza Aziendale Societaria e Tributaria",
+    "lat": 45.6957847,
+    "lon": 9.2141936,
+    "address": "Via Prealpi 8, Giussano",
+    "website": "",
+    "phone": "+390362248904"
+  },
+  {
+    "name": "Archiproject Contract",
+    "lat": 45.6761536,
+    "lon": 9.2195082,
+    "address": "Via Francesco Petrarca 14a, Verano Brianza",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico Pacchetti",
+    "lat": 45.6760655,
+    "lon": 9.2195779,
+    "address": "Via Francesco Petrarca 14a, Verano Brianza",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico Ronchi Costante",
+    "lat": 45.5505818,
+    "lon": 9.4365052,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico geometra Buraschi Carlo Pietro Davide",
+    "lat": 45.6645054,
+    "lon": 9.1513161,
+    "address": "Via Cristoforo Colombo 7, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Arch. Fulvio Aliprandi",
+    "lat": 45.6511827,
+    "lon": 9.1962104,
+    "address": "Via Fratelli Cairoli 48, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Casa Vaprio d'Adda",
+    "lat": 45.5755657,
+    "lon": 9.525632,
+    "address": "Via Natale Perego 64, Vaprio d'Adda",
+    "website": "https://studiocasavaprio.it",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio di consulenza di direzione ed organizzazione aziendale Poli Dr. Roberto",
+    "lat": 45.1785404,
+    "lon": 10.166446,
+    "address": "Via Leonida Bissolati 26, Vescovato",
+    "website": "",
+    "phone": "+39 0372 818388"
+  },
+  {
+    "name": "Belotti & Guzzi",
+    "lat": 45.5251635,
+    "lon": 9.3293202,
+    "address": "Via Giovanni Bourdillon 25",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.5356492,
+    "lon": 9.3697501,
+    "address": "Via Roma 30, Bussero",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Todeschini",
+    "lat": 45.5413647,
+    "lon": 9.1260648,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Dott. Angelo Ponti Dott. Mario Ratti",
+    "lat": 45.657563,
+    "lon": 9.2052793,
+    "address": "Via Giuseppe Verdi 94, Seregno",
+    "website": "https://www.studiopontiratti.it/",
+    "phone": "+390362231072"
+  },
+  {
+    "name": "Studio Sarp",
+    "lat": 45.3504771,
+    "lon": 9.0185067,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Figus designer",
+    "lat": 45.4658591,
+    "lon": 9.176021,
+    "address": "Corso Magenta 31, Milano",
+    "website": "https://www.figusdesigner.com/negozi/",
+    "phone": "+390286450155"
+  },
+  {
+    "name": "Lettera E Studio",
+    "lat": 45.455049,
+    "lon": 9.201027,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico Romagnolo Alberto Luca",
+    "lat": 45.6678372,
+    "lon": 9.1225718,
+    "address": "Via Vittorio Veneto 3, Lentate sul Seveso",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tributario Castellan",
+    "lat": 45.6613548,
+    "lon": 9.1602997,
+    "address": "Corso della Resistenza 23, Meda",
+    "website": "https://www.studiotributariocastellan.it/",
+    "phone": "+39 0362 173 9330; +39 0362 173 9331; +39 0362 173 9332"
+  },
+  {
+    "name": "Studio Brenna Parravicini",
+    "lat": 45.6717657,
+    "lon": 9.2005048,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Andrea Milesi",
+    "lat": 45.8317402,
+    "lon": 9.6664455,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio (Nome non specificato)",
+    "lat": 45.8379584,
+    "lon": 9.6630187,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio immobiliare Todaro",
+    "lat": 45.4161297,
+    "lon": 9.2633216,
+    "address": "Via della Libertà 16, San Donato Milanese",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Notarile Elena Cavalleroni",
+    "lat": 45.8123788,
+    "lon": 9.0795284,
+    "address": "Via Fratelli Cairoli 13, Como",
+    "website": "",
+    "phone": "+39 031 265230"
+  },
+  {
+    "name": "Affiliato Tecnocasa Studio Curtatone s.a.s.",
+    "lat": 45.1374779,
+    "lon": 10.7313437,
+    "address": "Via Michelangelo 6, Curtatone",
+    "website": "https://curtatone1.tecnocasa.it",
+    "phone": "+39 0376 1540306"
+  },
+  {
+    "name": "Studio immobiliare Montagnini",
+    "lat": 45.0660068,
+    "lon": 11.1327584,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio d'architettura OV_AK",
+    "lat": 45.659432,
+    "lon": 9.1619939,
+    "address": "Via Indipendenza 76, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Avv. Federica Alberti - Avv. Paolo Re",
+    "lat": 45.6592362,
+    "lon": 9.1623926,
+    "address": "Via Indipendenza 78, Meda",
+    "website": "https://lexalberti.it/;http://www.lexre.it/",
+    "phone": "+39 0362 179 3183"
+  },
+  {
+    "name": "Studio Arch. Mario e Lorenza Filocca - Architettura Sostenibile",
+    "lat": 45.6374414,
+    "lon": 9.2065344,
+    "address": "Via Antonio Gramsci 9, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Arch. Chiara Chiolerio - Project Wood Future",
+    "lat": 45.6373923,
+    "lon": 9.2067402,
+    "address": "Via Antonio Gramsci 9, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ecostudio Service",
+    "lat": 45.6373563,
+    "lon": 9.2067196,
+    "address": "Via Antonio Gramsci 9, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico Figaroli",
+    "lat": 45.7988778,
+    "lon": 10.0136449,
+    "address": "Via Valle delle Fontane 4, Endine Gaiano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico Gualeni - Dott. Geometra Gualeni Ernestino",
+    "lat": 45.7905682,
+    "lon": 9.9716664,
+    "address": "Via del Tonale e della Mendola 33, Endine Gaiano",
+    "website": "",
+    "phone": "+39035827288"
+  },
+  {
+    "name": "Studio due global",
+    "lat": 45.659525,
+    "lon": 9.1613386,
+    "address": "Via Isonzo 9b, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "prinitivo_",
+    "lat": 45.4930191,
+    "lon": 9.2194931,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "GP Progetti",
+    "lat": 45.6576068,
+    "lon": 10.1996669,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Atelier Architettura",
+    "lat": 45.3130143,
+    "lon": 9.4972224,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Roberto Giusti",
+    "lat": 45.6620591,
+    "lon": 9.1642944,
+    "address": "Viale delle Rimembranze 19, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio di Ingegneria Stefano Orsi",
+    "lat": 45.6670981,
+    "lon": 9.1632285,
+    "address": "Via Trento 48, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Fusetti Commercialisti Associati",
+    "lat": 45.6623577,
+    "lon": 9.1624117,
+    "address": "Viale Brianza 19, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico Associato Arch. Caimi Dario & Caimi Matteo",
+    "lat": 45.6615835,
+    "lon": 9.1621515,
+    "address": "Viale Brianza 18, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale e tributario Constantia",
+    "lat": 45.4597042,
+    "lon": 9.1712859,
+    "address": "Via Olona 25, Milano",
+    "website": "http://www.studioconstantia.it/",
+    "phone": "+39 02 8942 1887"
+  },
+  {
+    "name": "Studio Mariano",
+    "lat": 45.7969578,
+    "lon": 8.8418968,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Lucerna Iuris - Studio Legale Maglio & Partners",
+    "lat": 45.4587687,
+    "lon": 9.1693628,
+    "address": "Piazza Sant'Agostino 24, Milano",
+    "website": "https://www.maglio.eu/",
+    "phone": "+390243510840"
+  },
+  {
+    "name": "Studio Brianteo",
+    "lat": 45.6526076,
+    "lon": 9.2015747,
+    "address": "Via Francesco Carlini 55, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Dott. Arch. Paolo Sala",
+    "lat": 45.6461402,
+    "lon": 9.1402649,
+    "address": "Via Alessandro Manzoni 9, Seveso",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tigano",
+    "lat": 45.6461912,
+    "lon": 9.1402133,
+    "address": "Via Alessandro Manzoni 9, Seveso",
+    "website": "https://studiotigano.it/",
+    "phone": "+390362552288"
+  },
+  {
+    "name": "Studio Habitat",
+    "lat": 45.5090425,
+    "lon": 9.2472375,
+    "address": "Via Padova, Milano",
+    "website": "",
+    "phone": "+39 02 26306021"
+  },
+  {
+    "name": "ACME Milano",
+    "lat": 45.4629249,
+    "lon": 9.1666125,
+    "address": "Via Gian Battista Vico 42, Milano",
+    "website": "https://acmemilano.com",
+    "phone": "+39023452573"
+  },
+  {
+    "name": "ARchiscriptura",
+    "lat": 45.5030204,
+    "lon": 9.2379138,
+    "address": "Via Giulio Perticari, Milano",
+    "website": "http://www.archiscriptura.it/",
+    "phone": "+39 02 89051258"
+  },
+  {
+    "name": "Studio Casa",
+    "lat": 45.4863133,
+    "lon": 9.2237762,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.studiocasa.it/",
+    "phone": "+39 02 26145754"
+  },
+  {
+    "name": "Studio Zampetti",
+    "lat": 45.4681953,
+    "lon": 9.1746163,
+    "address": "Via Giacomo Leopardi 10, Milano",
+    "website": "https://www.zampetticlass.com/it/",
+    "phone": "+390287392236"
+  },
+  {
+    "name": "Pavanello e Del Bianco - Studio Tributario Amministrativo e Legale",
+    "lat": 45.4681111,
+    "lon": 9.1747222,
+    "address": "Via Giacomo Leopardi 10, Milano",
+    "website": "",
+    "phone": "+39024300141"
+  },
+  {
+    "name": "Paolo Badesco & Partners",
+    "lat": 45.4653033,
+    "lon": 9.1659353,
+    "address": "Viale di Porta Vercellina 5, Milano",
+    "website": "https://paolobadesco.it/",
+    "phone": "+390248100737"
+  },
+  {
+    "name": "Studio MC Amministrazioni Condominiali",
+    "lat": 45.6470155,
+    "lon": 9.1392449,
+    "address": "Corso Guglielmo Marconi 30, Seveso",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Boschetti Mambretti",
+    "lat": 45.5343663,
+    "lon": 9.1345259,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "+39 02 39 10 44 67"
+  },
+  {
+    "name": "Piacentini Ingegneri",
+    "lat": 45.5341441,
+    "lon": 9.1342335,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "China - Italy Design Innovation Hub",
+    "lat": 45.5062018,
+    "lon": 9.1626322,
+    "address": "Via Giovanni Durando, Milano",
+    "website": "https://www.cidih.tsinghua.edu.cn/en/About_Us/AboutUs.htm",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Doria 3",
+    "lat": 45.4852407,
+    "lon": 9.2073019,
+    "address": "Viale Andrea Doria 3",
+    "website": "http://www.studiolegaledoria3.it",
+    "phone": "+39 02 66989868"
+  },
+  {
+    "name": "Studio Associato Cominotto Cantoni - Alfa Data Consulting Srl",
+    "lat": 45.6248761,
+    "lon": 10.2010056,
+    "address": "Via Giuseppe Garibaldi 85, Villa Carcina",
+    "website": "https://www.studiocominottocantoni.it/",
+    "phone": "+390308982250"
+  },
+  {
+    "name": "Studio Associato Cominotto Cantoni",
+    "lat": 45.5450145,
+    "lon": 10.389226,
+    "address": "Via Garibaldi 58l, Nuvolento",
+    "website": "https://www.studiocominottocantoni.it/",
+    "phone": "+390306897355"
+  },
+  {
+    "name": "Lussignoli Associati",
+    "lat": 45.5275195,
+    "lon": 10.2043086,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.lussignoliassociati.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Associato B&V Basilico Venturini",
+    "lat": 45.6624252,
+    "lon": 9.155209,
+    "address": "Via Roma 7, Meda",
+    "website": "https://www.studiolegalebv.eu/",
+    "phone": "+3903621782633"
+  },
+  {
+    "name": "Studio legale Mauro Mantica",
+    "lat": 45.5355896,
+    "lon": 9.2255975,
+    "address": "Via Damiano Chiesa 120, Sesto San Giovanni",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Arch. Alessandro Pifferi",
+    "lat": 45.6625337,
+    "lon": 9.1551822,
+    "address": "Via Roma 14, Meda",
+    "website": "",
+    "phone": "+3903621731702"
+  },
+  {
+    "name": "Officine Creative",
+    "lat": 45.4552065,
+    "lon": 9.1677223,
+    "address": "Via Savona 17, Milano",
+    "website": "https://www.officine-creative.it/",
+    "phone": "+390239811252"
+  },
+  {
+    "name": "Studio immobiliare Negri",
+    "lat": 45.3559082,
+    "lon": 9.3204764,
+    "address": "Via Zuavi 81, Melegnano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio casa",
+    "lat": 45.3561378,
+    "lon": 9.3210867,
+    "address": "Via Zuavi 55, Melegnano",
+    "website": "https://www.studiocasa.it/agenzia_scheda.aspx?id=169",
+    "phone": "+39 02 98128447"
+  },
+  {
+    "name": "Fabric design",
+    "lat": 45.6092593,
+    "lon": 9.2219626,
+    "address": "Via del Commercio 2, Desio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Boccoleri",
+    "lat": 45.4629928,
+    "lon": 9.0910583,
+    "address": "Via Pistoia 11, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio notarile Magnocavallo Casini",
+    "lat": 45.5355128,
+    "lon": 9.9262679,
+    "address": "Via Cortezzano 46, Chiari",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio sistemi sicurezza integrata",
+    "lat": 45.6647581,
+    "lon": 9.1595416,
+    "address": "Via Solferino 81, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Archistaff",
+    "lat": 45.5509348,
+    "lon": 9.079665,
+    "address": "Via Papa Giovanni Ventitreesimo 1, Arese",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Spazio3",
+    "lat": 45.4661384,
+    "lon": 9.1561909,
+    "address": "Via Monferrato 2, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Capodiferro",
+    "lat": 45.5514843,
+    "lon": 9.0751149,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ecoprogetti",
+    "lat": 45.6780696,
+    "lon": 9.2112486,
+    "address": "Via Brunati 9b, Verano Brianza",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico di architettura Arch. Davide Beretta",
+    "lat": 45.6348854,
+    "lon": 9.144083,
+    "address": "Via Ludovico Necchi 8, Cesano Maderno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Mariani Dr. Cav. Luigi",
+    "lat": 45.6339943,
+    "lon": 9.1443934,
+    "address": "Via Ludovico Necchi 2, Cesano Maderno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Daniele Fiori partners",
+    "lat": 45.4629697,
+    "lon": 9.1668913,
+    "address": "Via Gian Battista Vico 42, Milano",
+    "website": "https://www.dfapartners.com/",
+    "phone": "+39026592269"
+  },
+  {
+    "name": "Il Piccolo | Architettura di Interni",
+    "lat": 45.5931421,
+    "lon": 9.176415,
+    "address": "Via Torino 21, Varedo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Facchinetti studio legale",
+    "lat": 45.5953802,
+    "lon": 9.1757853,
+    "address": "Via Torino 3/5, Varedo",
+    "website": "https://www.simonefacchinetti.it/",
+    "phone": "+390291084096"
+  },
+  {
+    "name": "Studio Riva commercialisti",
+    "lat": 45.5954148,
+    "lon": 9.1759988,
+    "address": "Via Torino 3/5, Varedo",
+    "website": "https://www.studiorivacommercialisti.it/",
+    "phone": "+390313359911"
+  },
+  {
+    "name": "B&B Studio",
+    "lat": 45.4360428,
+    "lon": 9.2411319,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "S&L interni",
+    "lat": 45.6613332,
+    "lon": 9.1524788,
+    "address": "Via Dante Alighieri 24, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Famar interior design",
+    "lat": 45.7357165,
+    "lon": 9.2914891,
+    "address": "Via Nazario Sauro 36, Cassago Brianza",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Gilardoni Fontana architecture",
+    "lat": 45.459733,
+    "lon": 9.1717681,
+    "address": "Via Ariberto 31, Milano",
+    "website": "https://www.gilardonifontana.com/",
+    "phone": "+390287078790"
+  },
+  {
+    "name": "Studio Orefici",
+    "lat": 45.4677391,
+    "lon": 9.1760642,
+    "address": "Piazzale Luigi Cadorna 11, Milano",
+    "website": "https://www.studio-orefici.it/",
+    "phone": "+3902809576;+3902809577"
+  },
+  {
+    "name": "Studio legale Avv. Francesca Brambilla - Avv. Corinne Buzzi",
+    "lat": 45.6502705,
+    "lon": 9.2143475,
+    "address": "Via Montello 1, Seregno",
+    "website": "",
+    "phone": "+3903621783315"
+  },
+  {
+    "name": "DensityDesign",
+    "lat": 45.5053316,
+    "lon": 9.165049,
+    "address": "Via Giuseppe Candiani B9",
+    "website": "https://densitydesign.org/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Aluk Design Studio Milan",
+    "lat": 45.506547,
+    "lon": 9.1624219,
+    "address": "Via Giovanni Durando 39, Milano",
+    "website": "https://it.aluk.com/it/design-studio",
+    "phone": "+390264743931"
+  },
+  {
+    "name": "Archit eco",
+    "lat": 46.3211078,
+    "lon": 9.3960646,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Andreoli 23 digital studios",
+    "lat": 45.5034821,
+    "lon": 9.161784,
+    "address": "Via Don Giuseppe Andreoli 23, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio notarile De Blasi",
+    "lat": 44.9948053,
+    "lon": 9.0111286,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.studionotariledeblasi.it/studio-notarile",
+    "phone": "+39 0383 41737"
+  },
+  {
+    "name": "Studio Scacciante & Associati",
+    "lat": 45.4677218,
+    "lon": 9.1758432,
+    "address": "Piazzale Luigi Cadorna 13, Milano",
+    "website": "https://www.studioscacciante.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio D'Angelo & Partners",
+    "lat": 45.4677241,
+    "lon": 9.1758935,
+    "address": "Piazzale Luigi Cadorna 13, Milano",
+    "website": "https://www.dangelo-partners.com/",
+    "phone": "+3902878587"
+  },
+  {
+    "name": "Cattaneo Architects",
+    "lat": 45.6841225,
+    "lon": 9.2210129,
+    "address": "Via Achille Grandi 41, Verano Brianza",
+    "website": "https://cattaneoarchitects.com",
+    "phone": "N/A"
+  },
+  {
+    "name": "Cattaneo Architects",
+    "lat": 45.5031598,
+    "lon": 9.1748071,
+    "address": "Via Bernardo Davanzati 20, Milano",
+    "website": "https://cattaneoarchitects.com",
+    "phone": "+390362992016"
+  },
+  {
+    "name": "Settore Diritto allo Studio, rapporti con l'Università, Sport e Politiche Giovanili",
+    "lat": 45.5350912,
+    "lon": 10.2106528,
+    "address": "Piazzale della Repubblica 1, Brescia",
+    "website": "",
+    "phone": "+39 030 2978902"
+  },
+  {
+    "name": "Studio tecnico Ing. Marco Omini",
+    "lat": 45.4546218,
+    "lon": 9.1781456,
+    "address": "Via Arena, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Dream studio",
+    "lat": 45.5378874,
+    "lon": 10.5335485,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Carlo Torre",
+    "lat": 45.445458,
+    "lon": 9.16406,
+    "address": "Via Carlo Torre 43, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "AM Studio - Personal Trainer",
+    "lat": 45.6608768,
+    "lon": 9.1528884,
+    "address": "Via Dante Alighieri 21, Meda",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Lombardini22",
+    "lat": 45.4474053,
+    "lon": 9.1653004,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.lombardini22.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio notarile Muzio",
+    "lat": 44.9944057,
+    "lon": 9.0071747,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio associato di architettura Nicolosi e Bulla",
+    "lat": 45.6038052,
+    "lon": 9.11996,
+    "address": "Via Fratelli Cairoli 3, Limbiate",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Oglialoro",
+    "lat": 45.6038252,
+    "lon": 9.1198849,
+    "address": "Via Fratelli Cairoli 5, Limbiate",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "One Works",
+    "lat": 45.4615556,
+    "lon": 9.2106151,
+    "address": "Via Amatore Sciesa 3, Milano",
+    "website": "https://www.one-works.com",
+    "phone": "+39 02 6559131"
+  },
+  {
+    "name": "Colab Design Milano",
+    "lat": 45.4560176,
+    "lon": 9.1870028,
+    "address": "Via Molino delle Armi 3, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Bossi S.a.s.",
+    "lat": 44.9892163,
+    "lon": 9.0104102,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio THK",
+    "lat": 45.7001324,
+    "lon": 9.412565,
+    "address": "Via Terzaghi 10, Merate",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico G. P.",
+    "lat": 46.0129188,
+    "lon": 9.2839365,
+    "address": "Via Corrado Venini, Varenna",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio immobiliare Sorrentino",
+    "lat": 45.4537579,
+    "lon": 9.1723331,
+    "address": "Via Mortara 4, Milano",
+    "website": "https://www.immobiliaresorrentino.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Sant'Ambrogio",
+    "lat": 45.4574804,
+    "lon": 9.1728947,
+    "address": "Via Cesare da Sesto 7, Milano",
+    "website": "",
+    "phone": "+390281273185"
+  },
+  {
+    "name": "Impresa edile Ferro",
+    "lat": 44.995337,
+    "lon": 9.0105401,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Montaudo",
+    "lat": 45.4571419,
+    "lon": 9.1733478,
+    "address": "Via Cesare da Sesto 5, Milano",
+    "website": "",
+    "phone": "+393332123387"
+  },
+  {
+    "name": "Pisk",
+    "lat": 45.4560222,
+    "lon": 9.1766931,
+    "address": "Via Galeazzo Alessi 1, Milano",
+    "website": "https://www.vanessapisk.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Interior Design Cappelletti Gabriele",
+    "lat": 45.7020082,
+    "lon": 9.1155577,
+    "address": "Piazza Castelllo 4, Carimate",
+    "website": "https://www.cappellettiarchitetti.com/",
+    "phone": "+39 031791264"
+  },
+  {
+    "name": "Studio Ravizza",
+    "lat": 45.4908068,
+    "lon": 9.6394385,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Casa Albino",
+    "lat": 45.7593382,
+    "lon": 9.7951853,
+    "address": "Via Giuseppe Mazzini 62, Albino",
+    "website": "https://www.studiocasaalbino.it/",
+    "phone": "+39 035 751111"
+  },
+  {
+    "name": "Studio Tecnico Magenta",
+    "lat": 45.4636043,
+    "lon": 8.8813096,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Aquilini Graziella",
+    "lat": 45.4633812,
+    "lon": 8.8812789,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Brega",
+    "lat": 45.4434479,
+    "lon": 9.1710005,
+    "address": "Viale Liguria 24, Milano",
+    "website": "https://www.studiobrega.it/",
+    "phone": "+39038542259"
+  },
+  {
+    "name": "Studio Rosaschino",
+    "lat": 45.4574235,
+    "lon": 9.1704297,
+    "address": "Viale Papiniano 44, Milano",
+    "website": "http://www.studiorosaschino.it/",
+    "phone": "+390294432140"
+  },
+  {
+    "name": "Sala, Noro e associati commercialisti",
+    "lat": 45.4574375,
+    "lon": 9.1704275,
+    "address": "Viale Papiniano 44, Milano",
+    "website": "https://www.dottcomm.it/",
+    "phone": "+390294432140"
+  },
+  {
+    "name": "Studio Paganuzzi",
+    "lat": 45.4574431,
+    "lon": 9.1704168,
+    "address": "Viale Papiniano 44, Milano",
+    "website": "https://www.paganuzzi.it/",
+    "phone": "+390289410345"
+  },
+  {
+    "name": "Studio legale Avv. Emanuele Ceraso Avv. Fabio Gerolimetto Avv. Laura Mainardi",
+    "lat": 45.5828072,
+    "lon": 9.2730373,
+    "address": "Via degli Zavattari 1, Monza",
+    "website": "",
+    "phone": "+39039365393;+390392304529;+390392300180"
+  },
+  {
+    "name": "Studio Notarile Testa Antonio",
+    "lat": 45.5827992,
+    "lon": 9.2730371,
+    "address": "Via degli Zavattari 1, Monza",
+    "website": "",
+    "phone": "+390392312277"
+  },
+  {
+    "name": "Studio ARS Rusconi Architetto",
+    "lat": 45.878501,
+    "lon": 10.1811276,
+    "address": "Piazza Federici 7, Darfo Boario Terme",
+    "website": "https://www.architettorusconi.com/",
+    "phone": "+39 0364 536700"
+  },
+  {
+    "name": "Studio Immobiliare Vercelli",
+    "lat": 45.4591938,
+    "lon": 9.1664687,
+    "address": "Viale Coni Zugna 21, Milano",
+    "website": "https://www.studioimmobiliarevercelli.it/",
+    "phone": "+390248010588"
+  },
+  {
+    "name": "Studio Legale Torriani",
+    "lat": 45.5284043,
+    "lon": 9.3322318,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Marisa",
+    "lat": 46.0756453,
+    "lon": 9.3078202,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Immobiliare Marzilli",
+    "lat": 45.1826231,
+    "lon": 9.1571085,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Laser design",
+    "lat": 45.7250812,
+    "lon": 9.1473927,
+    "address": "Via Milano 129h, Cantù",
+    "website": "https://www.laboratoriolaserdesign.it/",
+    "phone": "+390314971789"
+  },
+  {
+    "name": "StudioTre",
+    "lat": 45.1837298,
+    "lon": 9.1545674,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Vergallo Brivio & associati",
+    "lat": 45.4557354,
+    "lon": 9.1637875,
+    "address": "Via Andrea Solari 12, Milano",
+    "website": "https://www.vbea.it/",
+    "phone": "+3902874506"
+  },
+  {
+    "name": "SDR",
+    "lat": 45.6574401,
+    "lon": 8.796518,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Leonardi",
+    "lat": 45.6555382,
+    "lon": 9.1993242,
+    "address": "Via San Vitale 61, Seregno",
+    "website": "https://www.studioleonardisrl.it/",
+    "phone": "+390362222805"
+  },
+  {
+    "name": "Studio Associato Grillo",
+    "lat": 45.4539507,
+    "lon": 9.1639227,
+    "address": "Via Bergognone Da Fossano 31, Milano",
+    "website": "https://www.studiogrillo.it/",
+    "phone": "+390258100894;+390243416092"
+  },
+  {
+    "name": "Consulenti associati",
+    "lat": 45.4539172,
+    "lon": 9.1639419,
+    "address": "Via Bergognone Da Fossano 31, Milano",
+    "website": "",
+    "phone": "+390289408985"
+  },
+  {
+    "name": "Studio Piccione",
+    "lat": 45.7169804,
+    "lon": 9.0999132,
+    "address": "Via Rienti 1, Cantù",
+    "website": "",
+    "phone": "+39031700941"
+  },
+  {
+    "name": "Geom. Pietro Ditroia",
+    "lat": 45.5845323,
+    "lon": 9.4159209,
+    "address": "Piazza Libertà 12, Cavenago di Brianza",
+    "website": "https://www.pietroditroiageometra.com/",
+    "phone": "+39 393 879 7471"
+  },
+  {
+    "name": "Studio Brega",
+    "lat": 45.0753716,
+    "lon": 9.3032702,
+    "address": "Piazzale Trieste 23/24, Stradella",
+    "website": "https://www.studiobrega.it",
+    "phone": "+39 038 542259"
+  },
+  {
+    "name": "Studio Marchesotti",
+    "lat": 44.9950313,
+    "lon": 9.0139995,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Lv Outdoor Living Design",
+    "lat": 45.662745,
+    "lon": 9.7042646,
+    "address": "Via Friuli, Orio al Serio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale associato Longo",
+    "lat": 45.4562359,
+    "lon": 9.1866766,
+    "address": "Via Molino delle Armi 2a, Milano",
+    "website": "",
+    "phone": "+390286996948"
+  },
+  {
+    "name": "Architetto Massimiliano Invernizzi",
+    "lat": 45.9324126,
+    "lon": 9.4861783,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Motta Associati Amministrazione Immobiliare",
+    "lat": 45.6091185,
+    "lon": 9.2707625,
+    "address": "Via privata Ventiquattro Maggio 5, Vedano al Lambro",
+    "website": "",
+    "phone": "+39 039492739"
+  },
+  {
+    "name": "Architetto Claude van Steenwinkel",
+    "lat": 45.6860772,
+    "lon": 9.2383746,
+    "address": "Via Camillo Benso Conte di Cavour, Carate Brianza",
+    "website": "https://www.starching.it/it/team/claude-vansteenwinkel",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Rota Castiglioni",
+    "lat": 45.6295279,
+    "lon": 9.0341836,
+    "address": "Via San Giuseppe 95, Saronno",
+    "website": "https://www.rotacastiglioni.it/",
+    "phone": "+39 02 9602065"
+  },
+  {
+    "name": "6ab architettura",
+    "lat": 45.6968684,
+    "lon": 9.6788308,
+    "address": "Via Madonna della Neve 39",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Mueblesarte",
+    "lat": 45.5987407,
+    "lon": 9.2402694,
+    "address": "Viale Valassina 54, Lissone",
+    "website": "https://www.mueblesarte.it/",
+    "phone": "+39039794969;+390392782317"
+  },
+  {
+    "name": "Raffles Milano Istituto Moda e Design",
+    "lat": 45.4784738,
+    "lon": 9.204465,
+    "address": "Via Felice Casati 16, Milano",
+    "website": "https://rafflesmilano.it",
+    "phone": "N/A"
+  },
+  {
+    "name": "Renato Arrigo",
+    "lat": 45.454744,
+    "lon": 9.1788667,
+    "address": "Via Scaldasole 7, Milano",
+    "website": "https://www.renatoarrigo.com/",
+    "phone": "+390268854829"
+  },
+  {
+    "name": "Studio Brianteo",
+    "lat": 45.6770742,
+    "lon": 9.2426604,
+    "address": "Viale Trento e Trieste 12, Carate Brianza",
+    "website": "https://www.studiobrianteo.it/",
+    "phone": "+390362903186"
+  },
+  {
+    "name": "Studio Surace",
+    "lat": 45.6929064,
+    "lon": 9.2341577,
+    "address": "Via Piave 74, Verano Brianza",
+    "website": "https://www.federicosurace.com",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico Valera",
+    "lat": 45.6002907,
+    "lon": 9.1738545,
+    "address": "Viale Brianza 82, Varedo",
+    "website": "https://www.facebook.com/geom.Fogar/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Grafico Creativo Bolla SaS",
+    "lat": 45.5171697,
+    "lon": 9.2063105,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Effemme Service",
+    "lat": 45.6171091,
+    "lon": 9.1203388,
+    "address": "Via Monte Bianco 44, Limbiate",
+    "website": "https://www.effemmeservice.com/",
+    "phone": "+39029967926"
+  },
+  {
+    "name": "Studio Gibierre",
+    "lat": 45.181613,
+    "lon": 9.1618032,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Architetto Fausto Pozzoli",
+    "lat": 45.6982588,
+    "lon": 9.2129737,
+    "address": "Via Oberdan 7, Giussano (MB)",
+    "website": "https://fausto-pozzoli.business.site/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Hom3 - Comunicazione e Design",
+    "lat": 45.6081669,
+    "lon": 9.2517668,
+    "address": "Via Augusto Righi 13, Lissone",
+    "website": "http://www.hom3.it/",
+    "phone": "+39 039 89 41 495"
+  },
+  {
+    "name": "Feng Shui Consulting",
+    "lat": 45.6082817,
+    "lon": 9.251725,
+    "address": "Via Augusto Righi 11, Lissone",
+    "website": "",
+    "phone": "+39 039 24 54 634"
+  },
+  {
+    "name": "Studio tecnico Faletra",
+    "lat": 45.6061386,
+    "lon": 9.2485871,
+    "address": "Via Francesco Ferrucci 64, Lissone",
+    "website": "https://www.studiofaletra.it/",
+    "phone": "+39 039 245 44 36"
+  },
+  {
+    "name": "Studio Parasci Geometra",
+    "lat": 45.856234,
+    "lon": 8.8648043,
+    "address": "Via Ugo Foscolo 8, Arcisate",
+    "website": "https://www.studioparasci.it/",
+    "phone": "+39 3470759375"
+  },
+  {
+    "name": "Simone Fuso Architetto",
+    "lat": 45.8859448,
+    "lon": 8.7054152,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "EA Design",
+    "lat": 45.4669486,
+    "lon": 8.8824537,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.ea-design.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Zenoni",
+    "lat": 45.4200625,
+    "lon": 9.1588296,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Claudio Brignoli",
+    "lat": 45.5335781,
+    "lon": 9.9249031,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Lupatini Claudia",
+    "lat": 45.5319155,
+    "lon": 9.9270243,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Cogiedil",
+    "lat": 45.5358589,
+    "lon": 9.9289725,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Boifava",
+    "lat": 45.5369548,
+    "lon": 9.9292581,
+    "address": "Via Bettolini 7",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Sbaraini e Associati",
+    "lat": 45.5371845,
+    "lon": 9.9293015,
+    "address": "Via Ventisei Aprile 6, Chiari",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio D'Architettura Arch. Cuccia",
+    "lat": 45.8626607,
+    "lon": 9.3871567,
+    "address": "Viale Filippo Turati 76 C",
+    "website": "",
+    "phone": "+39 0341 282100"
+  },
+  {
+    "name": "ADI arredamenti di Nadia Panni",
+    "lat": 45.5357101,
+    "lon": 10.2339405,
+    "address": "Viale Venezia 30, Brescia",
+    "website": "https://www.adi-interiordesign.it",
+    "phone": "+390302167152"
+  },
+  {
+    "name": "Geom. Calvetti",
+    "lat": 45.9899352,
+    "lon": 9.6812983,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ricevimento Merci",
+    "lat": 45.8982805,
+    "lon": 8.7374493,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Notarile Dr. De Gennaro",
+    "lat": 46.0016895,
+    "lon": 8.7425227,
+    "address": "Via Vittorio Sereni 21, Luino",
+    "website": "",
+    "phone": "+390332535030"
+  },
+  {
+    "name": "Studio Brega",
+    "lat": 45.0160643,
+    "lon": 9.1244964,
+    "address": "Via Console Marcello 10, Casteggio",
+    "website": "https://www.studiobrega.it/",
+    "phone": "+39 038 542259"
+  },
+  {
+    "name": "(AB)NORMAL",
+    "lat": 45.4772857,
+    "lon": 9.2430243,
+    "address": "Via Leonardo Bistolfi 49, Milano",
+    "website": "https://abnormalstory.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Cardillo e fratelli",
+    "lat": 45.5706468,
+    "lon": 9.3347912,
+    "address": "Viale Bartolomeo Colleoni 25, Agrate Brianza",
+    "website": "http://www.cardilloefratelli.com",
+    "phone": "+393479444308"
+  },
+  {
+    "name": "Studio tecnico geom. Lorenzo Petrucci ing. Ileana Boscarello - Calcoli e misure",
+    "lat": 45.6679668,
+    "lon": 9.1290562,
+    "address": "Piazza Fratelli Cervi 14, Lentate sul Seveso",
+    "website": "https://www.geometrapetrucci.it/",
+    "phone": "+390362241173"
+  },
+  {
+    "name": "Studio Merati",
+    "lat": 45.4591767,
+    "lon": 9.1697066,
+    "address": "Via Numa Pompilio 2, Milano",
+    "website": "https://www.studiowaltermerati.it/",
+    "phone": "+390258317918"
+  },
+  {
+    "name": "White Design Studio",
+    "lat": 45.6067344,
+    "lon": 9.3031752,
+    "address": "Piazza Cesare Pavese 2",
+    "website": "https://www.whitedesignstudio.it",
+    "phone": "+39 039 2620937"
+  },
+  {
+    "name": "Studio legale Frigo & Partners STP",
+    "lat": 45.5398591,
+    "lon": 10.2249642,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Alfa Studio Srl - Sicurezza sul lavoro",
+    "lat": 45.4830335,
+    "lon": 9.3861443,
+    "address": "Via Bruno Buozzi 23, Liscate",
+    "website": "https://www.alfastudio.net/",
+    "phone": "+39 334 81 68 641"
+  },
+  {
+    "name": "Studio Professionale Di Servizio",
+    "lat": 45.5354408,
+    "lon": 9.2373737,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "RODIGHIERO.DESIGN STUDIO RODIGHIERO ASSOCIATI",
+    "lat": 45.3867566,
+    "lon": 10.4950234,
+    "address": "P.le Resistenza 12",
+    "website": "https://rodighiero.design",
+    "phone": "N/A"
+  },
+  {
+    "name": "I.E.C.I. engineering",
+    "lat": 45.4672528,
+    "lon": 8.8660237,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Boffa Petrone & Partners",
+    "lat": 45.4528635,
+    "lon": 9.1664822,
+    "address": "Via Tortona 21, Milano",
+    "website": "https://boffapetrone.it/",
+    "phone": "+390249543632"
+  },
+  {
+    "name": "Studio Terrenghi",
+    "lat": 45.4528578,
+    "lon": 9.1664577,
+    "address": "Via Tortona 21, Milano",
+    "website": "",
+    "phone": "+390272021299"
+  },
+  {
+    "name": "AiolaDesign s.r.l.",
+    "lat": 45.6512782,
+    "lon": 9.4018203,
+    "address": "Via Armando Diaz 45, Bernareggio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "FDA Studio Legale",
+    "lat": 45.4402078,
+    "lon": 9.1912806,
+    "address": "Via Bernardino Verro 33/6, Milano",
+    "website": "",
+    "phone": "+39 02 8414 6559"
+  },
+  {
+    "name": "Huit Studio",
+    "lat": 45.5235797,
+    "lon": 10.2272439,
+    "address": "Via del Brasile 4",
+    "website": "",
+    "phone": "+39 348 8610948"
+  },
+  {
+    "name": "Studio Legale Avv. Tuttobene",
+    "lat": 45.5280658,
+    "lon": 10.2374016,
+    "address": "Via Foro Boario 17",
+    "website": "",
+    "phone": "+39 030 231 1000"
+  },
+  {
+    "name": "Associates Architecture",
+    "lat": 45.5337067,
+    "lon": 10.223848,
+    "address": "Vicolo delle Sguizzette 10",
+    "website": "https://www.associatesarchitecture.it/",
+    "phone": "+39 030 3375901"
+  },
+  {
+    "name": "Studio INGAB",
+    "lat": 45.5341712,
+    "lon": 10.2247994,
+    "address": "Via Francesco Crispi 20",
+    "website": "https://www.studioingab.it/",
+    "phone": "+39 030 2385649"
+  },
+  {
+    "name": "Studio Seregni",
+    "lat": 45.5278708,
+    "lon": 9.2295434,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Brixia Pratiche Automobilistiche",
+    "lat": 45.5311145,
+    "lon": 10.2377398,
+    "address": "Viale Piave 7",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Associato Monticelli",
+    "lat": 45.5491963,
+    "lon": 10.2190859,
+    "address": "Via Campo Marte 34",
+    "website": "https://www.studiomonticelli.net/",
+    "phone": "+39 030 391701"
+  },
+  {
+    "name": "dotdotdot",
+    "lat": 45.4479848,
+    "lon": 9.2216214,
+    "address": "Via Tertulliano 68",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Corrado",
+    "lat": 45.4489886,
+    "lon": 9.2190193,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Progetti Agenzia Immobiliare, Ingegneria Edile e Architettura",
+    "lat": 45.5374007,
+    "lon": 9.2376635,
+    "address": "Via Dante Alighieri 171",
+    "website": "https://www.progetti-agenziaimmobiliare.it/Studio-Tecnico.htm",
+    "phone": "+39 340 386 2035; +39 349 667 4685"
+  },
+  {
+    "name": "C&G studio",
+    "lat": 45.5630781,
+    "lon": 9.0777327,
+    "address": "Viale John Fitzgerald Kennedy 2c, Garbagnate Milanese",
+    "website": "https://studio-home.info/",
+    "phone": "+390299025027"
+  },
+  {
+    "name": "Studio Boken",
+    "lat": 45.7055245,
+    "lon": 9.1821369,
+    "address": "Via Palmiro Togliatti 82D, Mariano Comense",
+    "website": "https://www.studioboken.it",
+    "phone": "+39 031 718 5100"
+  },
+  {
+    "name": "Studio Ponte Di Legno",
+    "lat": 46.2600732,
+    "lon": 10.5100849,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Maria Privitera",
+    "lat": 45.8198338,
+    "lon": 8.8285093,
+    "address": "Via Gaetano Donizetti 11, Varese",
+    "website": "https://studiolegaleprivitera.com",
+    "phone": "+39 0332 285886 - +39 3472562658"
+  },
+  {
+    "name": "WiP Architetti",
+    "lat": 45.4167734,
+    "lon": 9.2621584,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.wiparchitetti.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Pa.Te. - Consorzio Quartiere Affari",
+    "lat": 45.4181794,
+    "lon": 9.258986,
+    "address": "Indirizzo non disponibile",
+    "website": "https://studiopate.it/",
+    "phone": "+39 0382610080"
+  },
+  {
+    "name": "Studio Skyline - Consorzio Quartiere Affari",
+    "lat": 45.4181678,
+    "lon": 9.2589938,
+    "address": "Indirizzo non disponibile",
+    "website": "https://skyline.immo/",
+    "phone": "+39 0112876340"
+  },
+  {
+    "name": "Studio Dati Z Sas Di Donadoni Anna & C.",
+    "lat": 45.6411235,
+    "lon": 9.6841834,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "SOBIM",
+    "lat": 45.4923906,
+    "lon": 9.1900555,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio architettura Alfredo Combi & Partners",
+    "lat": 45.9446447,
+    "lon": 9.4685559,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tec Srl CAF Servizi Fiscali",
+    "lat": 45.4963933,
+    "lon": 9.1928981,
+    "address": "Via Veglia 3",
+    "website": "https://www.studiotecsrl.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Avv. Maccaboni",
+    "lat": 45.5359085,
+    "lon": 10.2234916,
+    "address": "Corso Camillo Benso Conte di Cavour 7, Brescia",
+    "website": "http://www.maccaboni.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Trinchera Dottori Commercialisti Revisori Legali dei Conti",
+    "lat": 46.3211497,
+    "lon": 9.3950558,
+    "address": "Vicolo ai Ronchi 1, Chiavenna",
+    "website": "https://www.studiotrinchera.com",
+    "phone": "+39 0343 33484"
+  },
+  {
+    "name": "Studio Tecnico Vedovelli",
+    "lat": 45.6883432,
+    "lon": 10.6633351,
+    "address": "Piazza Feltrinelli 14",
+    "website": "https://www.studiovedovelli.it/",
+    "phone": "+39 0365 71402"
+  },
+  {
+    "name": "Studio legale Cristallo Antonio",
+    "lat": 45.4169013,
+    "lon": 9.1781719,
+    "address": "Via Ettore Bugatti 5, Milano",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico Geometra Antonella Piotti",
+    "lat": 45.7769647,
+    "lon": 10.261228,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Pereira Danilo Studio Immobiliare",
+    "lat": 45.6248853,
+    "lon": 9.0363469,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Moskito Design",
+    "lat": 45.81748,
+    "lon": 8.828449,
+    "address": "Via Giovanni Bagaini 6",
+    "website": "https://www.moskitodesign.it",
+    "phone": "+39 03321893359"
+  },
+  {
+    "name": "Studio Pellegatta",
+    "lat": 45.5882401,
+    "lon": 8.8494974,
+    "address": "Via Fratelli Di Dio 3",
+    "website": "https://studiotecnicopellegatta.it/",
+    "phone": "+39 0331 632726"
+  },
+  {
+    "name": "Jacobs",
+    "lat": 45.5248579,
+    "lon": 9.285203,
+    "address": "Via Alessandro Volta 16, Cologno Monzese",
+    "website": "",
+    "phone": "+39 02 250981"
+  },
+  {
+    "name": "Studio Servizi Immobiliari",
+    "lat": 45.4626209,
+    "lon": 9.1331967,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ordine degli Architetti",
+    "lat": 45.8116185,
+    "lon": 8.8354211,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Immobiliare Vercelli",
+    "lat": 45.4526668,
+    "lon": 9.1453935,
+    "address": "Via Lorenteggio 55, Milano",
+    "website": "https://www.studioimmobiliarevercelli.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "DVArea",
+    "lat": 45.5302893,
+    "lon": 10.2367994,
+    "address": "Indirizzo non disponibile",
+    "website": "https://dvarea.com/",
+    "phone": "+39 0365 1590217"
+  },
+  {
+    "name": "Studio Dottori Commercialisti",
+    "lat": 45.529487,
+    "lon": 9.3345287,
+    "address": "Via Briantea 44",
+    "website": "",
+    "phone": "+39 02 9222 0321"
+  },
+  {
+    "name": "Studio Associato Previtali A & A",
+    "lat": 45.6847628,
+    "lon": 9.459298,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "House Studio",
+    "lat": 45.6018214,
+    "lon": 8.8458152,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.housestudio.net/",
+    "phone": "+39 0331 324 249"
+  },
+  {
+    "name": "Cagnoni interior design",
+    "lat": 45.5975758,
+    "lon": 8.8378613,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Nazareno Cristello",
+    "lat": 45.6993983,
+    "lon": 9.2099775,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Ristruttura Easy",
+    "lat": 45.59978,
+    "lon": 8.8462247,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Avv. Alessandro Simeone",
+    "lat": 45.46287,
+    "lon": 9.2162661,
+    "address": "Piazza Emilia 5, Milano",
+    "website": "https://www.studiosimeone.eu",
+    "phone": "+39 02 8088 9066"
+  },
+  {
+    "name": "Engiant",
+    "lat": 45.7031982,
+    "lon": 9.479181,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "LAND",
+    "lat": 45.4801275,
+    "lon": 9.1844523,
+    "address": "Via Varese 16, Milano",
+    "website": "https://www.landsrl.com/",
+    "phone": "+39028069111"
+  },
+  {
+    "name": "Studio Immobiliare Milano Due",
+    "lat": 45.4956122,
+    "lon": 9.2664656,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.immobiliaremilanodue.it",
+    "phone": "+39 334 983 1373; +39 02 2171 1206"
+  },
+  {
+    "name": "Studio Milano Due Srl",
+    "lat": 45.5022936,
+    "lon": 9.2680391,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "IED Istituto Europeo di Design",
+    "lat": 45.4615387,
+    "lon": 9.2093357,
+    "address": "Via Amatore Sciesa 4, Milano",
+    "website": "https://www.ied.it/milano?activityId=7011r000001uOZSAA2",
+    "phone": "+39025796951"
+  },
+  {
+    "name": "Studio 15",
+    "lat": 45.4795926,
+    "lon": 10.241137,
+    "address": "Via Martiri della Libertà 15, Borgosatollo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "LART",
+    "lat": 45.5358935,
+    "lon": 10.2163041,
+    "address": "Via Moretto 27",
+    "website": "https://www.luciaantonellistudio.com/",
+    "phone": "+39 030 219 1191"
+  },
+  {
+    "name": "Malv Studio Mutti",
+    "lat": 45.9044169,
+    "lon": 8.7347028,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Marchesi",
+    "lat": 45.9046299,
+    "lon": 8.7404664,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Turati",
+    "lat": 45.6523969,
+    "lon": 9.2133786,
+    "address": "Viale Circonvallazione 55a, Seregno",
+    "website": "",
+    "phone": "+3903621787362"
+  },
+  {
+    "name": "BANP",
+    "lat": 45.5405535,
+    "lon": 10.2127969,
+    "address": "Contrada delle Bassiche 15, Brescia",
+    "website": "https://www.banpstudio.it",
+    "phone": "N/A"
+  },
+  {
+    "name": "Facchinetti Studio Immobiliare",
+    "lat": 45.5404821,
+    "lon": 10.2102822,
+    "address": "Via Fratelli Ugoni 8bis, Brescia",
+    "website": "https://www.facchinettistudioimmobiliare.it",
+    "phone": "+39 030 999 8877"
+  },
+  {
+    "name": "KosmoDesign",
+    "lat": 45.5359926,
+    "lon": 10.2094022,
+    "address": "Via Fratelli Ugoni 36, Brescia",
+    "website": "https://kosmodesign.it",
+    "phone": "+39 030 098 4835"
+  },
+  {
+    "name": "LANGA Studios",
+    "lat": 45.5406745,
+    "lon": 10.218984,
+    "address": "Rua Sovera 5, Brescia",
+    "website": "https://drivein.langa.tv/blog/agenzia-comunicazione-brescia-creativita-per-il-tuo-brand/",
+    "phone": "+39 030 554 3426"
+  },
+  {
+    "name": "Studio Brixia",
+    "lat": 45.5427212,
+    "lon": 10.2201688,
+    "address": "Via San Faustino 54b, Brescia",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "formA.3.",
+    "lat": 45.6553561,
+    "lon": 9.1781248,
+    "address": "Via Cadore 228, Seregno",
+    "website": "https://forma3.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico Radice e Todarello",
+    "lat": 45.6662426,
+    "lon": 9.159964,
+    "address": "Via Giuseppe Parini 11, Meda",
+    "website": "",
+    "phone": "+390362344463"
+  },
+  {
+    "name": "Studio notarile Vito Candiloro",
+    "lat": 45.9668895,
+    "lon": 8.8541003,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Tecnico Eureka Equipe",
+    "lat": 45.8060745,
+    "lon": 8.8352272,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.eurekaequipe.eu/",
+    "phone": "+39 0332 315682"
+  },
+  {
+    "name": "Linea Design Milano",
+    "lat": 45.6357511,
+    "lon": 9.1719719,
+    "address": "Via Po 49, Cesano Maderno",
+    "website": "https://www.lineadesignmilano.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "4Box",
+    "lat": 45.4467143,
+    "lon": 9.144879,
+    "address": "Via Filippo Brunelleschi 16, Milano",
+    "website": "https://4box.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Commercialista Elvia Genoni",
+    "lat": 45.5906665,
+    "lon": 8.8555561,
+    "address": "Via Burattana 14",
+    "website": "http://studioeg-commercialista.it",
+    "phone": "+393474409045"
+  },
+  {
+    "name": "Studio Agronomico Mori",
+    "lat": 45.8148938,
+    "lon": 8.6109536,
+    "address": "Via Piave 59, Ispra",
+    "website": "",
+    "phone": "+39 338 144 3252"
+  },
+  {
+    "name": "Studio Aiolfi",
+    "lat": 45.4975492,
+    "lon": 9.6403745,
+    "address": "Piazza Antonio Locatelli 20",
+    "website": "https://studioaiolfi.com",
+    "phone": "+39 0363 51584"
+  },
+  {
+    "name": "Studio ABCIM di Sarubbi Rag. Giovanni",
+    "lat": 45.6584627,
+    "lon": 8.790416,
+    "address": "Via Achille Cadolini 6",
+    "website": "https://www.sarubbi.it/",
+    "phone": "+39 033 179 6636"
+  },
+  {
+    "name": "Studio di architettura",
+    "lat": 45.6588847,
+    "lon": 8.7978064,
+    "address": "Piazza Papa Giovanni Ventitreesimo",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Moretti",
+    "lat": 45.6548308,
+    "lon": 10.2462007,
+    "address": "Via Antonio Gramsci 12, Lumezzane",
+    "website": "https://www.studiomorettistp.it/",
+    "phone": "+39 030 871796"
+  },
+  {
+    "name": "Studio Legale Centonze",
+    "lat": 45.5825262,
+    "lon": 9.2725711,
+    "address": "Via Antonio Gambacorti Passerini 6, Monza",
+    "website": "https://www.studiolegalecentonze.it",
+    "phone": "+39 0399451160"
+  },
+  {
+    "name": "Studio Legale Centonze",
+    "lat": 45.4509255,
+    "lon": 9.152568,
+    "address": "Via Savona 94, Milano",
+    "website": "https://www.studiolegalecentonze.it",
+    "phone": "+39 0248952804"
+  },
+  {
+    "name": "BIM Adda",
+    "lat": 46.1719275,
+    "lon": 9.869183,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.bimadda.it",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio di nutrizione e dietetica",
+    "lat": 45.6588585,
+    "lon": 8.7978359,
+    "address": "Piazza Papa Giovanni Ventitreesimo",
+    "website": "",
+    "phone": "+39 392 9419584"
+  },
+  {
+    "name": "Studio Stefanutto Commercialisti",
+    "lat": 45.4067831,
+    "lon": 10.4080943,
+    "address": "Via Risorgimento 100, Montichiari",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Di Giorgio",
+    "lat": 45.6091355,
+    "lon": 9.5207675,
+    "address": "Piazza Della Libertà 27a",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Notarile Paola Cianci",
+    "lat": 45.6235315,
+    "lon": 9.0350225,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Dazzi",
+    "lat": 45.4873989,
+    "lon": 9.2301031,
+    "address": "Indirizzo non disponibile",
+    "website": "https://studiodazzi.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Boffi",
+    "lat": 45.4874251,
+    "lon": 9.230103,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Erre Effe",
+    "lat": 45.4818398,
+    "lon": 9.2286439,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Domus",
+    "lat": 46.1700412,
+    "lon": 9.8781109,
+    "address": "Via Gorizia 11, Sondrio",
+    "website": "",
+    "phone": "+39 0342 219476"
+  },
+  {
+    "name": "Studioerre",
+    "lat": 45.6670733,
+    "lon": 9.9594689,
+    "address": "Via Roma 34b, Sarnico",
+    "website": "https://www.studioerre.eu",
+    "phone": "+39 035 914233"
+  },
+  {
+    "name": "Architetto Lorenzo Budelli",
+    "lat": 45.6732224,
+    "lon": 8.7441207,
+    "address": "Via Milano 96",
+    "website": "",
+    "phone": "+39 348 0459558"
+  },
+  {
+    "name": "Disign And Project di arch. Davide Proverbio e  geom. Marco Mariconti Geo",
+    "lat": 45.8288237,
+    "lon": 8.7978819,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Gallazzi",
+    "lat": 45.6046115,
+    "lon": 8.8600125,
+    "address": "Viale Alfieri 19, Busto Arsizio",
+    "website": "",
+    "phone": "+39 0331 636303"
+  },
+  {
+    "name": "Studio tecnico Arch. Tomas Colombo - Geom. Sonia Conti - Arch. Stephen Okoh - Geom. Giorgio A. De Capitani",
+    "lat": 45.6781934,
+    "lon": 9.3932596,
+    "address": "1, Osnago",
+    "website": "https://www.stereometrica.it/blank#anchors-lkv902um1",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio tecnico associato C Due",
+    "lat": 45.690197,
+    "lon": 9.2619831,
+    "address": "Via Alessandro Volta 9, Besana in Brianza",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Elle Edilizia Progettazione",
+    "lat": 45.4884981,
+    "lon": 9.226569,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Pighetti Bertoli",
+    "lat": 45.4010895,
+    "lon": 9.9230549,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "ZDA Zupelli Design Architettura",
+    "lat": 45.4012072,
+    "lon": 9.9232534,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.zupellidesignarchitettura.com/contatti",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Visconti",
+    "lat": 45.8218261,
+    "lon": 8.8284942,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Anycase Studio",
+    "lat": 45.821531,
+    "lon": 8.8282481,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Bello'",
+    "lat": 45.821615,
+    "lon": 8.8283347,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Di Tommaso Battipede",
+    "lat": 45.8216386,
+    "lon": 8.82835,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Coscia e Zonda",
+    "lat": 45.822317,
+    "lon": 8.8283418,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Simone Riva",
+    "lat": 45.8223043,
+    "lon": 8.8283746,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Carignola",
+    "lat": 45.8224008,
+    "lon": 8.828348,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Silvia Borroni",
+    "lat": 45.8224214,
+    "lon": 8.8283679,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Pepe Rigano",
+    "lat": 45.8224427,
+    "lon": 8.8283869,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Luisa Claudia Carabelli",
+    "lat": 45.8224688,
+    "lon": 8.8284084,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Associato Portentoso",
+    "lat": 45.8224938,
+    "lon": 8.8284247,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Avvocato Katia Benvenuto",
+    "lat": 45.8225132,
+    "lon": 8.8284477,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Maria Cristina Cavaliere",
+    "lat": 45.8225359,
+    "lon": 8.828465,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Giovanna Fandella",
+    "lat": 45.8225511,
+    "lon": 8.8285113,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "HQ Engineering Italia s.r.l.",
+    "lat": 45.5095477,
+    "lon": 9.1286298,
+    "address": "Via Giorgio Stephenson 29, Milano",
+    "website": "https://www.hqe.it/",
+    "phone": "+390229062210"
+  },
+  {
+    "name": "Studio Legale Avv. Simona Ranisi",
+    "lat": 45.608825,
+    "lon": 8.832257,
+    "address": "Viale Rimembranze 65, Busto Arsizio",
+    "website": "https://www.avvocatoranisi.it/",
+    "phone": "+39 338 286 0154"
+  },
+  {
+    "name": "Studio Carioni",
+    "lat": 45.1607245,
+    "lon": 9.7052053,
+    "address": "Via Galileo Galilei 5, Codogno",
+    "website": "https://www.studiocarioni.it/",
+    "phone": "+39037732618"
+  },
+  {
+    "name": "Radon Brianza",
+    "lat": 45.5613127,
+    "lon": 9.2923429,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Davide Oglialoro",
+    "lat": 45.6989842,
+    "lon": 9.0900281,
+    "address": "Via Antonio Gramsci, Cermenate",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Figini",
+    "lat": 45.69877,
+    "lon": 9.0293116,
+    "address": "Via del Seprio 21, Lomazzo",
+    "website": "studiofigini.agenzie.casa.it",
+    "phone": "+39 02 96778044"
+  },
+  {
+    "name": "OltreFrontiera Progetti",
+    "lat": 45.6579941,
+    "lon": 9.1424602,
+    "address": "Via Luigi Capuana 41, Barlassina",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio VFX for Film and Tv",
+    "lat": 45.6701162,
+    "lon": 9.2311404,
+    "address": "Viale Brianza 51, Carate Brianza",
+    "website": "https://www.federicosurace.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Commerciale Viganò Brambilla e Associati",
+    "lat": 45.6037001,
+    "lon": 9.2024912,
+    "address": "Via Caravaggio 2b, Desio",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio della moda",
+    "lat": 45.6531489,
+    "lon": 9.2197471,
+    "address": "Via Berlino 11, Seregno",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "NOA Milano",
+    "lat": 45.4483072,
+    "lon": 9.2044823,
+    "address": "Via Trebbia 32, Milano",
+    "website": "https://www.noa.network/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Geometra Paino Daniele",
+    "lat": 46.17148,
+    "lon": 9.377788,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Geometra Peverelli",
+    "lat": 46.1734577,
+    "lon": 9.4038518,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Ruffo",
+    "lat": 45.6074256,
+    "lon": 9.3716356,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "+39 039 6612171"
+  },
+  {
+    "name": "Studio BASE2",
+    "lat": 45.354417,
+    "lon": 9.6362996,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.sb2.it/",
+    "phone": "N/A"
+  }
+]
