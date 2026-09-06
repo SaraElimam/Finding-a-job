@@ -4,33 +4,34 @@ import sys
 import time
 
 def fetch_architects_lombardy():
-    # Enforce HTTPS to prevent the server from dropping the POST data during a redirect
     overpass_url = "https://overpass-api.de/api/interpreter"
     
+    # Optimized query: avoids heavy regex on keys, uses direct matches and a safer text scan.
     query = """
-    [out:json][timeout:90];
+    [out:json][timeout:180];
     area["name"="Lombardia"]["admin_level"="4"]->.searchArea;
     (
-      // 1. Get all explicitly tagged architects and engineers
-      node["office"~"^(architect|engineer)$"](area.searchArea);
-      way["office"~"^(architect|engineer)$"](area.searchArea);
-      relation["office"~"^(architect|engineer)$"](area.searchArea);
-      
-      // 2. Get generic offices if their name sounds like an AEC firm (case-insensitive)
-      node["office"~"^(company|yes)$"]["name"~"arch|studio|associati|progetti|design|bim|ingegneria",i](area.searchArea);
-      way["office"~"^(company|yes)$"]["name"~"arch|studio|associati|progetti|design|bim|ingegneria",i](area.searchArea);
-      relation["office"~"^(company|yes)$"]["name"~"arch|studio|associati|progetti|design|bim|ingegneria",i](area.searchArea);
+      node["office"="architect"](area.searchArea);
+      way["office"="architect"](area.searchArea);
+      relation["office"="architect"](area.searchArea);
+
+      node["office"="engineer"](area.searchArea);
+      way["office"="engineer"](area.searchArea);
+      relation["office"="engineer"](area.searchArea);
+
+      node["office"]["name"~"architet|associati|studio|progetti|bim|design",i](area.searchArea);
+      way["office"]["name"~"architet|associati|studio|progetti|bim|design",i](area.searchArea);
+      relation["office"]["name"~"architet|associati|studio|progetti|bim|design",i](area.searchArea);
     );
     out center;
     """
     
     headers = {
-        "User-Agent": "JobHuntRadarBot/1.1 (sarahalemam.37@gmail.com)"
+        "User-Agent": "JobHuntRadarBot/1.2 (sarahalemam.37@gmail.com)"
     }
     
     print("Querying OpenStreetMap database...")
     
-    # Implement a retry mechanism in case the free server is temporarily overloaded
     max_retries = 3
     for attempt in range(max_retries):
         response = requests.post(overpass_url, data={'data': query}, headers=headers)
@@ -44,24 +45,40 @@ def fetch_architects_lombardy():
             time.sleep(15)
     else:
         print("All attempts failed. Exiting.")
-        print(response.text)
         sys.exit(1)
         
     data = response.json()
-    firms = []
     
-    for el in data.get('elements', []):
+    # SAFETY CHECK: If the server returns a memory/timeout error inside a 200 OK response
+    if 'remark' in data and not data.get('elements'):
+        print(f"API Error (Remark): {data['remark']}")
+        sys.exit(1)
+        
+    elements = data.get('elements', [])
+    if len(elements) == 0:
+        print("Query returned 0 results. Exiting to prevent wiping the map.")
+        sys.exit(1)
+        
+    firms = []
+    seen_coords = set()
+    
+    for el in elements:
         tags = el.get('tags', {})
         lat = el.get('lat') or el.get('center', {}).get('lat')
         lon = el.get('lon') or el.get('center', {}).get('lon')
         
         if not lat or not lon: continue
+        
+        # Prevent duplicate entries if a firm matches multiple criteria
+        coord_key = f"{lat},{lon}"
+        if coord_key in seen_coords: continue
+        seen_coords.add(coord_key)
             
         address_parts = [f"{tags.get('addr:street', '')} {tags.get('addr:housenumber', '')}".strip(), tags.get('addr:city', '')]
         address = ", ".join(filter(None, address_parts))
         
         firms.append({
-            "name": tags.get('name', 'Studio di Architettura'),
+            "name": tags.get('name', 'Studio (Nome non specificato)'),
             "lat": lat,
             "lon": lon,
             "address": address if address else "Indirizzo non disponibile",
