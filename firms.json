@@ -3808,19 +3808,19 @@
     "phone": "+39 030 871796"
   },
   {
-    "name": "Studio Legale Centonze",
+    "name": "Centonze Santoro studio legale associato",
     "lat": 45.5825262,
     "lon": 9.2725711,
     "address": "Via Antonio Gambacorti Passerini 6, Monza",
-    "website": "https://www.studiolegalecentonze.it",
+    "website": "https://www.centonzesantorolex.com",
     "phone": "+39 0399451160"
   },
   {
-    "name": "Studio Legale Centonze",
+    "name": "Centonze Santoro studio legale associato",
     "lat": 45.4509255,
     "lon": 9.152568,
     "address": "Via Savona 94, Milano",
-    "website": "https://www.studiolegalecentonze.it",
+    "website": "https://www.centonzesantorolex.com",
     "phone": "+39 0248952804"
   },
   {
@@ -4108,6 +4108,38 @@
     "lat": 45.5613127,
     "lon": 9.2923429,
     "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Gregori - Sapelli",
+    "lat": 45.6120513,
+    "lon": 8.8536019,
+    "address": "Via Milano 5, Busto Arsizio",
+    "website": "https://www.gregorisapelli.it",
+    "phone": "+39 0331 624188"
+  },
+  {
+    "name": "UrbanLab",
+    "lat": 45.4653247,
+    "lon": 8.8796683,
+    "address": "Via Roma 110, Magenta",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Legale Avv. Lucia Mattarozzi",
+    "lat": 45.3093537,
+    "lon": 10.4082316,
+    "address": "Indirizzo non disponibile",
+    "website": "https://iustlab.org/lucia.mattarozzi",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Ing. Silvano Tognolatti",
+    "lat": 45.6149408,
+    "lon": 10.1928202,
+    "address": "Via Sorlini Vincenzo 5, Concesio",
     "website": "",
     "phone": "N/A"
   },
