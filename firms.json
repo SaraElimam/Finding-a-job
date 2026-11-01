@@ -72,6 +72,14 @@
     "phone": "+39 0377 84333"
   },
   {
+    "name": "Studio Legale Avv. Gianluca Abbate",
+    "lat": 45.1272216,
+    "lon": 8.6232134,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
     "name": "Studio Commercialista Sciandra & Associati",
     "lat": 45.4679914,
     "lon": 9.1957512,
@@ -2657,8 +2665,8 @@
   },
   {
     "name": "Studio Interior Design Cappelletti Gabriele",
-    "lat": 45.7020082,
-    "lon": 9.1155577,
+    "lat": 45.7019998,
+    "lon": 9.1155529,
     "address": "Piazza Castelllo 4, Carimate",
     "website": "https://www.cappellettiarchitetti.com/",
     "phone": "+39 031791264"
@@ -4141,6 +4149,46 @@
     "lon": 10.1928202,
     "address": "Via Sorlini Vincenzo 5, Concesio",
     "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "A2CStudio",
+    "lat": 45.4648166,
+    "lon": 9.1767562,
+    "address": "Via Sant'Agnese 12, Milano",
+    "website": "https://a2cstudio.com/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio legale Corti",
+    "lat": 45.697775,
+    "lon": 9.2082501,
+    "address": "Indirizzo non disponibile",
+    "website": "",
+    "phone": "N/A"
+  },
+  {
+    "name": "Studio Riccardo Broggini",
+    "lat": 45.8212398,
+    "lon": 8.828308,
+    "address": "Indirizzo non disponibile",
+    "website": "https://www.brogginiassociati.it/",
+    "phone": "N/A"
+  },
+  {
+    "name": "Andrea Onali e Associati",
+    "lat": 45.4654988,
+    "lon": 9.1881414,
+    "address": "Via Santa Margherita 6, Cagliari",
+    "website": "https://metodosoldhouse.it/",
+    "phone": "+39 070 252097"
+  },
+  {
+    "name": "Moitiè Studio",
+    "lat": 45.4805125,
+    "lon": 9.2132272,
+    "address": "Via Federico Ozanam 13, Milano",
+    "website": "https://www.moitiestudio.com",
     "phone": "N/A"
   },
   {
